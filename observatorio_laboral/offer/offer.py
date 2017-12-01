@@ -1,6 +1,7 @@
-from model import CassandraModel
+from observatorio_laboral.model import CassandraModel
 
-class OfferModel(CassandraModel):
+
+class Offer(CassandraModel):
 
     def __init__(self,
                  source, year, month, id,
@@ -67,4 +68,4 @@ class OfferModel(CassandraModel):
 
 # Method to create tables
 #Offer.Setup()
-#OfferModel.ConnectToDatabase('l4', 'l4_offers')
+#Offer.ConnectToDatabase('l4', 'l4_offers')

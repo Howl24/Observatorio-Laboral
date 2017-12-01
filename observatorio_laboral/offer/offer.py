@@ -16,7 +16,7 @@ class Offer(CassandraModel):
 
     @classmethod
     def Setup(cls):
-        cls.ConnectToDatabase("l4", "l4_offers")
+        cls.ConnectToDatabase("l4", "l4_offers", setup=True)
         table_creation_cmd = \
         """
         CREATE TABLE IF NOT EXISTS {0} (
@@ -32,8 +32,11 @@ class Offer(CassandraModel):
         cls.CreateTable(table_creation_cmd)
 
     @classmethod
-    def ConnectToDatabase(cls, keyspace, table):
+    def ConnectToDatabase(cls, keyspace, table, setup=False):
         super().ConnectToDatabase(keyspace, table)
+        if setup:
+            return
+
         statements = {}
         statements['insert'] = \
                 """

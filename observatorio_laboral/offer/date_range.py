@@ -27,9 +27,13 @@ class Date(ComparableMixin):
         return self.months
 
     def __str__(self):
-        year = self.months // MONTHS_PER_YEAR
-        month = (self.months - 1) % MONTHS_PER_YEAR + 1
-        return str(str(month) + "/" + str(year))
+        return str(str(self.get_month()) + "/" + str(str(self.get_year())))
+
+    def get_month(self):
+        return (self.months - 1) % MONTHS_PER_YEAR + 1
+
+    def get_year(self):
+        return self.months // MONTHS_PER_YEAR
 
 
 class DateRange(object):

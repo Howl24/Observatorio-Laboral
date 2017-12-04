@@ -26,6 +26,7 @@ class CassandraModel(ABC):
     def ConnectToDatabase(cls, keyspace, table):
         cls.keyspace = keyspace
         cls.table = table
+        cls.prepared_statements = {}
 
         if cls.keyspace not in cls.sessions:
             cls.sessions[cls.keyspace] = cls.cluster.connect(cls.keyspace)
@@ -73,10 +74,13 @@ class CassandraModel(ABC):
         result = self.__class__.RunStatement('insert', row)
 
     @classmethod
-    def Query(cls, statement, pk):
+    def Query(cls, statement, pk, custom=False):
         rows = cls.RunStatement(statement, pk)
 
         if not rows:
             return []
         else:
-            return [cls.ByRow(row) for row in rows]
+            if custom:
+                return list(rows)
+            else:
+                return [cls.ByRow(row) for row in rows]

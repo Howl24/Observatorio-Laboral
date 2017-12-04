@@ -3,6 +3,9 @@ from observatorio_laboral.model import CassandraModel
 
 class Offer(CassandraModel):
 
+    table = ""
+
+
     def __init__(self,
                  source, year, month, id,
                  features={}, careers=set()):
@@ -33,7 +36,8 @@ class Offer(CassandraModel):
 
     @classmethod
     def ConnectToDatabase(cls, keyspace, table, setup=False):
-        super().ConnectToDatabase(keyspace, table)
+        super().ConnectToDatabase(keyspace)
+        cls.table = table
         if setup:
             return
 

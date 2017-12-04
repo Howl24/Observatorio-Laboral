@@ -23,8 +23,8 @@ class OfferController(object):
 
         return selected_offers
 
-date_range = DateRange(4, 2016, 6, 2016)
-source = "symplicity"
-
-offer_controller = OfferController()
-offer_controller.get_offers(source, date_range)
+#date_range = DateRange(4, 2016, 6, 2016)
+#source = "symplicity"
+#
+#offer_controller = OfferController()
+#offer_controller.get_offers(source, date_range)

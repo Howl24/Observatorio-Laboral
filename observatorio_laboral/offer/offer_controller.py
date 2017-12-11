@@ -1,8 +1,8 @@
-import sys
-sys.path.insert(0, "../../")
+#import sys
+#sys.path.insert(0, "../../")
 
-from offer import Offer
-from date_range import DateRange
+from .offer import Offer
+from .date_range import DateRange
 
 class OfferController(object):
 
@@ -10,7 +10,7 @@ class OfferController(object):
         Offer.ConnectToDatabase('l4', 'l4_offers')
 
 
-    def get_offers(self, source=None, date_range=None):
+    def get_offers(self, source=None, date_range=None, career=None):
         """
             date_range -> Tuple (min_date, max_date)
         """
@@ -19,6 +19,8 @@ class OfferController(object):
         for date in date_range:
             query_params = (source, date.get_year(), date.get_month())
             offers = Offer.Query('select', query_params)
+            print(date, len(offers))
+            offers = [offer for offer in offers if career in offer.careers]
             selected_offers += offers
 
         return selected_offers

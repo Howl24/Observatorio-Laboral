@@ -15,7 +15,12 @@ class Offer(CassandraModel):
         self.month = month
         self.id = id
         self.features = features
-        self.careers = careers
+
+        if careers is None:
+            self.careers = set()
+        else:
+            self.careers = careers
+
 
     @classmethod
     def Setup(cls):
@@ -36,8 +41,7 @@ class Offer(CassandraModel):
 
     @classmethod
     def ConnectToDatabase(cls, keyspace, table, setup=False):
-        super().ConnectToDatabase(keyspace)
-        cls.table = table
+        super().ConnectToDatabase(keyspace, table)
         if setup:
             return
 

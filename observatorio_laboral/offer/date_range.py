@@ -1,4 +1,5 @@
 from observatorio_laboral.utils.comparable_mixin import ComparableMixin
+import math
 
 MONTHS_PER_YEAR = 12
 
@@ -33,7 +34,7 @@ class Date(ComparableMixin):
         return (self.months - 1) % MONTHS_PER_YEAR + 1
 
     def get_year(self):
-        return self.months // MONTHS_PER_YEAR
+        return math.ceil(self.months / MONTHS_PER_YEAR)
 
 
 class DateRange(object):

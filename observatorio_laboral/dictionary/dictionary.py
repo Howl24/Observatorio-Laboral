@@ -3,6 +3,7 @@ sys.path.insert(0, "../../")
 
 
 from term import Term
+from term_controller import TermController
 from configuration import Configuration
 from observatorio_laboral.offer.offer_controller import OfferController
 from observatorio_laboral.offer.date_range import DateRange
@@ -16,6 +17,8 @@ class Dictionary(object):
         self.dict_name = dict_name
         self.load()
         self.offer_controller = OfferController()
+        self.term_controller = TermController(self.configurations,
+                                              self.offer_controller)
 
 
     def load(self):
@@ -56,14 +59,21 @@ class Dictionary(object):
                  self._get_configuration('career')
                 )
 
-        print(len(offers))
+        terms = self.term_controller.get_terms(
+                offers
+                )
+
+        print(len(terms))
 
 # Configuracion de diccionario de economia
 
 D_ECO = "Diccionario_Economía"
 #d = Dictionary(D_ECO)
-#d.add_configuration(Configuration(D_ECO, "source", "'symplicity'", 
-#                                  "fuente desde la cual se obtendran los terminos"))
+#d.add_configuration(Configuration(D_ECO,
+#                                  "text_fields",
+#                                  "['Description', 'Job Title', 'Qualifications', 'Software']", 
+#                                  "campos a utilizar para obtener texto de una oferta"))
+#d.save()
 #d.add_configuration(Configuration(D_ECO, "career", "'ECONOMÍA'",
 #                                  "carrera a utilizar para este diccionario"))
 #d.add_configuration(Configuration(D_ECO, "date_range", "DateRange(1, 2013, 12, 2017)",

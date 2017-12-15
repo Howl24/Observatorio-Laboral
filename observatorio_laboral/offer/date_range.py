@@ -34,7 +34,7 @@ class Date(ComparableMixin):
         return (self.months - 1) % MONTHS_PER_YEAR + 1
 
     def get_year(self):
-        return math.ceil(self.months / MONTHS_PER_YEAR)
+        return math.ceil(self.months / MONTHS_PER_YEAR) - 1
 
 
 class DateRange(object):

@@ -1,10 +1,10 @@
-import sys
-sys.path.insert(0, "../../")
+#import sys
+#sys.path.insert(0, "../../")
 
 
-from term import Term
-from term_controller import TermController
-from configuration import Configuration
+from .term import Term
+from .term_controller import TermController
+from .configuration import Configuration
 from observatorio_laboral.offer.offer_controller import OfferController
 from observatorio_laboral.offer.date_range import DateRange
 
@@ -67,7 +67,7 @@ class Dictionary(object):
 
 # Configuracion de diccionario de economia
 
-D_ECO = "Diccionario_Economía"
+#D_ECO = "Diccionario_Economía"
 #d = Dictionary(D_ECO)
 #d.add_configuration(Configuration(D_ECO,
 #                                  "text_fields",
@@ -81,5 +81,5 @@ D_ECO = "Diccionario_Economía"
 #
 #d.save()
 
-d = Dictionary(D_ECO)
-d.update_terms()
+#d = Dictionary(D_ECO)
+#d.update_terms()

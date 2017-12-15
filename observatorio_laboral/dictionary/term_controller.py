@@ -1,4 +1,4 @@
-from term import Term
+from .term import Term
 from nltk.tokenize import word_tokenize
 from nltk.tag.stanford import StanfordPOSTagger
 import os
@@ -38,7 +38,8 @@ class TermController(object):
                     accept = True
                     for idx, word in words:
                         accept = accept and key[idx] == tags_by_term[word]
-
+                except:
+                    pass
 
     def _get_configuration(self, key):
         for configuration in self.configurations:

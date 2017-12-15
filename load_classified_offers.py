@@ -31,5 +31,3 @@ with open("eco.csv") as csvfile:
         offer.Insert()
 
 
-
-

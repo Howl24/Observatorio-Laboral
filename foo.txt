@@ -1,0 +1,1223 @@
+Texto,areas
+"Analista de Administracion y Finanzas Analizar los estados financieros e identificar las principales variaciones relevantes para la toma de decisiones Organizacionales.
+Analizar las cuentas del estado de resultados haciendo seguimiento a los márgenes, al EBITDA y al punto de equilibrio con la finalidad determinar y realizar un seguimiento periódico a la rentabilidad de la Organización.
+Controlar los costos de la Organización a través de un sistema de costeo por tipo de negocio.
+Consolidar y monitorear el cumplimiento del presupuesto Organizacional generando planes de acción para reducir las diferencias existentes en la ejecución presupuestal.
+Analizar la evolución del flujo de caja para determinar las necesidades de financiamiento de la Organización.
+Consolidar y procesar información para elaborar los reportes correspondientes de acuerdo a las necesidades de la Organización.
+Implementar las normas de control interno y realizar el seguimiento del cumplimiento de las mismas para garantizar el resguardo de los recursos Organizaciones.
+Elaborar indicadores de gestión administrativos y financieros realizando un seguimiento periódico de los resultados con la finalidad de monitorear el desempeño económico y financiero de la Organización.
+Controlar las pólizas de seguros de la Organización para garantizar el resguardo de los recursos Organizaciones.
+Administrar y controlar los documentos del Departamento de Administración y Finanzas. 02 años cumpliendo las funciones señaladas.","('F', 'P')"
+"Analista de Inteligencia de Cobranzas MISIÓN:
+Proporcionar soporte estratégico, táctico, operativo  y tecnológico  al área de cobranzas Banca Minorista en el proceso de desarrollo e implementación de herramientas Inteligentes y Analíticas para el desarrollo y gestión del portafolio de la Banca alineado a los objetivos del Banco.
+
+FUNCIONES:
+1. Integrar el equipo estratégico de cobranzas para el desarrollo de propuestas e implementación de estrategias y tácticas de gestión en coordinación con los coordinadores de productos, el negocio, riesgos y canales de gestión.
+2. Desarrollar y administrar las herramientas analíticas y de gestión para la toma de decisiones (indicadores gerenciales: contención, provisiones, efectividades, vintage, KPI- KRI-RI-metas, BSC, presupuestos y gastos; de producción: Timing y diagnóstico), rutas y momentos óptimos de gestión (Líneas de Tiempo).
+3. Segmentar, evaluar, sensibilizar  y analizar el portafolio de cobranzas para definir cluster de gestión por enfoque eficiencia- eficacia- oportunidad mediante metodologías estadísticas y operativas.
+4. Desarrollo e implementación de los proyectos  sistémicos, analíticos, procesos y operativos estratégicos del área de cobranzas.
+5. Administración de software tecnológico de cobranzas ICS, Genesis, bases cobranzas  y Afines. (Mobile, SMS, IVR, Redes Sociales) •	ORACLE intermedio
+•	Sql Server avanzado
+•	SPSS intermedio y/o Afines.
+•	Conocimiento de Banca.
+•	Conocimiento de normativa SBS.
+•	Diplomado o Curso de Extensión de Business intelligence.","('F', 'P')"
+"Analista Financiero Elaboración de Valorizaciones mensuales de Proyectos Propios para los supervisores de bancos.
+Seguimiento a las liberaciones de cada proyecto de acuerdo a las condiciones aprobadas.
+Análisis de Flujo de Caja por Proyecto, partiendo del estudio de factibilidad.
+Análisis de posición de deuda y cálculo de intereses de las deudas con entidades financieras, así como el control de vencimientos dando las alertas necesarias.
+Elaboración de Memorias para obtener el financiamiento de terrenos para nuevos proyectos.
+Revisión del Estudio de Inversión y elaboración de Estudio de Factibilidad para solicitar aprobación del promotor (mínimo con 4 bancos).
+Financiamiento bancario: Capital de Trabajo, Préstamos Comerciales, Cartas de Crédito.
+Estructuración de Proyectos.
+Control de gastos financieros y administrativos de la empresa.
+Conocer y hacer seguimiento a los contratos.
+Conocer y hacer seguimiento a los contratos de Fideicomiso.
+Conocer y hacer seguimiento a los financiamientos.
+Supervisión del asistente de finanzas y tesorería. Experiencia de trabajo en bancos o entidades del sistema financiero y/o en empresas relacionadas al sector inmobiliario. 
+Conocimiento y experiencia en operaciones en el mercado de valores.
+Con capacidad para sistematizar bases de datos.
+Manejo de flujo de caja como herramienta de trabajo. 
+Buen manejo de relaciones con entidades financieras y supervisoras.","('F', 'P')"
+"Asistente de Gestión de Proyectos de Investigación -Levantar, sistematizar y analizar toda la información requerida para el inicio de proyectos de investigación, a fin de asegurar que el equipo investigador, el equipo de gestión, y los grupos de interés vinculados, tengan toda la información necesaria para una adecuada planificación de la gestión del proyecto, y con ello minimizar las probabilidades de incidencias y riesgos durante su ejecución.
+-Elaborar lineamientos para la gestión de proyectos de investigación, de acuerdo a los requerimientos y disposiciones de cada entidad financiadora, a fin de que el equipo investigador, el equipo de gestión, y los grupos de interés vinculados, conozcan cuales son los procedimientos y disposiciones a utilizar durante la ejecución del proyecto, asegurando con ello su eficaz desarrollo.
+-Monitorear ejecución de proyectos de investigación asignados, a través de herramientas diseñadas para ello, a fin de identificar oportunamente incidencias, riesgos y oportunidades de mejora que aseguran el logro eficaz de los objetivos y resultados propuestos, y sistematizar información que permita la toma de decisiones a diversos niveles.
+-Controlar la ejecución financiera de proyectos de investigación asignados, a fin de asegurar el cumplimiento de políticas y disposiciones relacionadas a la ejecución de proyectos de investigación, tanto a nivel interno como externo, así como la eficiencia en la gestión del proyecto.
+-Elaborar y analizar informes financieros periódicos de los proyectos de investigación, a fin de cumplir con los compromisos adquiridos con entidades aportantes, y brindar información oportuna y exacta para la toma de decisiones.
+-Brindar asesoría a equipos investigadores, sobre temas de gestión de proyectos de investigación, a fin de asegurar que poseen la información y conocimientos necesarios para lograr los objetivos y resultados propuestos, cumplir con los compromisos adquiridos, y cumplir con políticas y disposiciones sobre gestión de proyectos de investigación.
+-Identificar, proponer y participar en la implementación de oportunidades de mejora para la gestión de proyectos de investigación, permitiendo mejorar continuamente la gestión, y asegurar que se satisfacen las expectativas de todos los grupos de interés vinculados.
+-Coordinar con diversas instancias, tanto a nivel interno como externo, sobre todas las gestiones vinculadas al desarrollo de los proyectos de investigación, a fin de asegurar que se cuentan con condiciones adecuadas para el desarrollo de proyectos, y mitigar el impacto de incidencias o riesgos que pudieran ocurrir.
+-Realizar otras funciones asignadas por su superior inmediato. Tener una especialización en Gestión de Proyectos.
+Contar con experiencia en el sector Educación de 1 año (deseable).
+Contar con experiencia de, por lo menos, 1 año, en el área de Gestión de Proyectos (indispensable).
+Contar con experiencia de, por lo menos, 2 años, en el puesto de Analista de proyectos (indispensable).
+Tener conocimiento de MS Project a nivel intermedio.","('F', 'P')"
+"CAP Nº 008 - 2016 – Especialista Económico Elaborar informes, presentaciones, estudios analíticos y documentos de investigación sobre aspectos económicos y financieros, así como sobre temas de regulación, supervisión y fiscalización de los sectores de energía y minería.
+Realizar estudios econométricos, estadísticos y computacionales relacionados a los aspectos económicos y técnicos de los sectores de energía y minería, utilizando bases de datos y encuestas, para proveer de soporte técnico a Osinergmin en materia cuantitativa.
+Proponer y supervisar  la ejecución del plan operativo  del área, alineándolo al Plan Estratégico, a fin de aportar en la consecución de los objetivos de la institución.
+Absolver consultas en materia económica sobre  las funciones, bajo  los ámbitos  de competencia de Osinergmin, para dar atención a las otras áreas.
+Organizar la información estadística necesaria para mantener actualizada las bases de datos que la Gerencia requiere para el análisis económico en temas de energía y minería.
+Liderar los equipos de trabajo para atender los encargos solicitados por la Alta Dirección y Gerencia General, a fin de alcanzar las metas estratégicas de Osinergmin.
+Supervisar la realización de consultorías sobre estudios económicos y proyectos estadísticos que requiere la Gerencia en temas de energía y minería.
+Ejecutar la realización de eventos, seminarios y publicaciones de carácter académico y técnico, así como la representación de Osinergmin en grupos de trabajo ínter-institucionales para posicionar a la entidad como líder en la gestión de políticas públicas en los sectores de energía y minería. No menor de cinco (08) años de experiencia general en entidades públicas o privadas.
+No menor de tres (06) años de experiencia específica en puestos y/o funciones equivalentes, desde el nivel Analista o Especialista.","('F', 'P')"
+"GESTOR DE PLANEAMIENTO FINANCIERO - Liderar el proceso presupuestal de la Compañía.
+- Implementar un modelo dinámico de proyección de flujo de caja y balance general.
+- Incorporar el modelo de costeo en decisiones de gestión y potenciar el modelo de rentabilidad por cliente.
+- Implementar y mantener un modelo presupuestal en herramienta financiera.
+- Elaborar forecasts y proyecciones de Ganancias y Pérdidas.
+- Elaborar indicadores de balance general y análisis financieros para la gerencia.
+- Monitorear la evolución del requerimiento patrimonial de la compañía y realizar las proyecciones necesarias.
+- Dar soporte y seguimiento a Clínica Internacional en materia financiera.
+- Elaborar reportes financieros para el centro corporativo y clasificadoras de riesgo.
+- Elaborar diversos análisis financieros para la alta gerencia. - Mínimo 2 años en puesto similar como Analista Senior de Planeamiento Financiero.
+- Manejo de Hyperion o ERP o SAP intermedio.","('F', 'P')"
+"Jefe de Finanzas, Tesorería y Cobranzas -Responsable del área de finanzas, tesorería, caja, facturación, créditos y cobranzas. 
+-Realizar la evaluación de crédito y gestión de cartera de cobranzas de los clientes a crédito. 
+-Realizar auditoría interna de sus propias remesas y comunicar al área de Control Interno. 
+-Controlar la gestión de cobranzas de la empresa. 
+-Supervisa la ejecución y evaluación del presupuesto anual.
+-Elaboración y control de presupuestos. 
+-Elaborar informe de estados financieros para su presentación a Gerencia General. 
+-Responsable de generar estrategias para el aumento en la recaudación y disminuir la morosidad. 
+-Verificar la realización de arqueos de dinero. -Titulado de las carreras de Contabilidad, Economía, Administración o a fines. 
+- Experiencia mínima 4 años en jefaturas indicadas. 
+- Conocimientos en interpretación de EEFF, indicadores financieros y de gestión, productos bancarios, ratios. 
+-Experiencia mínima de 4 años en Finanzas, tesorería, créditos y cobranzas -Conocimiento de la Norma ISO 9001 y OHSAS 18001. 
+-Dominio de Office nivel avanzado, excel a nivel avanzado.","('F', 'P')"
+"JEFE DE NEGOCIOS •	Asegurar el cumplimiento de las metas de ventas establecidas bajo los criterios  de rentabilidad de la empresa a través de la prospección de nuevos clientes y el mantenimiento de la cartera actual de clientes.
+•	Documentar las acciones en el CRM (Crear potenciales, llamadas, tareas, eventos, programación de reuniones y actualización de la información).
+•	Actualizar negociaciones sobre el concepto de ""venta consultiva"" mediante el uso de las herramientas proporcionadas por la empresa.
+•	Recabar información relacionada con la documentación necesaria para la inscripción y apertura del cliente, análisis de crédito e informar al departamento de riesgos sobre anomalías de crédito del cliente del mercado donde actúa.
+•	Monitorear el mercado en la región en la que opera (mapeo) para identificar la prospección de nuevas oportunidades de negocio.
+•	Apoyar otras áreas de la empresa en las acciones de recuperación, que buscan minimizar los problemas de incumplimiento del cliente.
+•	Elaboración de propuestas técnicas, comerciales y estudios de viabilidad financiera. •	Bachiller o titulado en Administración de Empresas, Ingeniería Industrial, Economía y/o carreras a fines.
+•	Experiencia de 2 años en posiciones similares de ventas en empresas financieras o de servicios.
+•	Deseable conocimiento de Leasing Operativo
+•	Manejar cartera de clientes en los cuales los vehículos no sean el Core Business
+•	Gestión de Ventas","('F', 'P')"
+"Key Account Manager •	Analizar proyecciones de venta por canal y generar planes de acción que permitan un incremento en la rentabilidad, posicionamiento y participación de mercado.
+•	Elaborar indicadores de gestión, productividad, medición de campañas y análisis de ventas por segmento.
+•	Diseñar planes de trabajo orientados a generar mejores vínculos con los clientes retail y en consecuencia con clientes finales.
+•	Definir y controlar el cumplimiento de las políticas de stocks de productos que permita la adecuada gestión del showroom a instalar en cada uno de los puntos de venta. Asegurando que la reposición se realice en los plazos definidos.
+•	Analizar los datos de ventas para mejorar los resultados de las cuentas asignadas.
+•	Negociación y relación directa con las marcas para dar fluidez a los negocios mensuales.
+•	Lograr un alto estándar de satisfacción en todas las áreas de relación con el cliente.
+•	Responsable de la obtención de resultados de objetivo mes.
+•	Participación activa en los acuerdos comerciales con los clientes.
+•	Detectar oportunidades de negocio y ampliar el portafolio ya existente dentro de la cartera de cliente activa.
+•	Coordinar la estrategia comercial junto con la dirección comercial.
+•	Manejo de relaciones públicas con compradores y gerencia comercial de los distintos Retails. •	Experiencia mínima de 4 años en el sector retail.","('F', 'P')"
+"Practicante Ventas Cash Management Ayuda en la venta de Productos de Cash Management para Banca Retail.
+Soporte en la post venta de productos a Banca Retail: Scotiacard, Telebanking, Recaudación y Letras.
+Elaboración de la información de reportes Follow the Money para los Annual Review.
+Seguimiento en la activación y registro de convenios afiliados, así como en su uso.
+Ayuda en la elaboración de presentaciones periódicas a las bancas y reportes mensuales.
+Preparación de información para el Comité semanal de Ventas. De preferencia alguna experiencia en Cash Management y habilidades comerciales de ser posible.
+Habilidades comerciales
+Office avanzado
+Inglés intermedio
+•	De preferencia 01 año practicando en áreas comerciales manejando una cartera de clientes. Conocimientos financieros y bancarios.
+•	Conocimientos Administrativos y contables
+•	Conocimiento legal, sobre todo en Fideicomiso (Ley de Bancos).
+•	Conocimiento en mercado de capitales.
+•	Manejo del MS Office a nivel intermedio.
+•	Manejo del Ingles a nivel intermedio.","('F', 'P')"
+"AFP Integra - Analista Senior de Riesgos de Inversión AFP Integra, la AFP de SURA en el Perú, se encuentra en la búsqueda de un Analista Senior de Riesgos de Inversión.
+ 
+Funciones Principales:
+-Monitorear la clasificación de riesgos por medio del historial de upgrades o downgrades y escala de ratings de corto y largo plazo para emisores de instrumentos de renta fija y renta variables y prevenir que entren en default.
+-Controlar los límites regulatorios de inversión por riesgo de concentración por grupos económicos para la correcta asignación de recursos conjuntamente con el cumplimiento normativo.
+-Realizar el análisis de riesgo de renta variable a través del diferencial entre valor en libros y valor en libros y valor razonable para monitorear la evolución del precio de mercado de los principales instrumentos.
+-Aplicar metodologías de medición y control de riesgo inmobiliario, a través del análisis crediticio de las inversiones inmobiliarias.
+-Realizar el cálculo de provisiones y requerimiento patrimonial de los títulos de crédito hipotecario negociable (TCHNs).
+-Elaborar los reportes informativos por medio de reportes emitidos mensualmente e índices de gestión y control de riesgos para el directorio y gerencia general contribuyendo con la cultura de riesgos. -Deseable contar con estudios de postgrado referido a sus responsabilidades.
+-Mínima de 3 años de experiencia en empresas del sector financiero y/o servicios realizando responsabilidades afines.
+
+Conocimiento:
+-Deseable conocimientos en Bloomberg","('F', 'P')"
+"Category - Análisis Comercial - Análisis de información de mercado y elaboración de reportes semanales con indicadores de venta para los clientes.
+
+- Análisis de venta, stocks, rentabilidad, ingresos de nuevos productos y totalidad de pre compra de clientes claves.
+
+- Análisis del negocio por Categorías, Canales, Precios y de la competencia. Identificar oportunidades de negocio.
+
+- Optimizar rotación, inventario y contribución de la marca para el cliente.
+
+- Trabajar con el cliente las pre-ventas de temporadas futuras.
+
+- Hacer seguimiento de las ventas en forma semanal y cumplimiento de metas.
+
+-  Analizar KPIs de las cuentas para facilitar la toma decisiones.
+
+- Evaluar el ROI de las actividades promocionales en tienda para tener un aprendizaje y saber con mayor precisión cuál es la mejor inversión. -Dominio de inglés a nivel avanzado.
+- Dominio de Excel a nivel avanzado (expertise en tablas dinámicas).
+- Experiencia mínima de un año en el análisis de información en retail.","('F', 'P')"
+"Economista - Jefe de Finanzas 1. Planificar y supervisar la gestión de las Jefaturas de Crédito y Cobranza y Tesorería.
+2. Planificar, controlar y hacer seguimiento continuo a la gestión de Cobranzas, de acuerdo a los índices e indicadores aprobados por la Gerencia General a nivel del presupuesto anual.
+3. Administrar la Tesorería:	Administrar las relaciones de la empresa con los Bancos Supervisar la elaboración del flujo de caja mensual y los proyectados.
+4. Presupuesto y Control de Gestión:	Liderar la elaboración de los presupuestos anuales, logrando el involucramiento de todas las Divisiones y Gerencias Corporativas, presentándolo a la Gerencia General.
+5. Elaborar el Informe de Gestión Mensual  (control del presupuesto e Indicadores a nivel mensual).
+6. Evaluar los proyectos, inversiones, compras de empresas y otros.
+7. Encargado de Adquisiciones: Analizar, negociar y apoyar a la Gerencia en la adquisición de activos de alto valor. Y negociar y administrar la relación de la empresa con los Ajustadores y Cías. de Seguros. 
+8. Participar en reuniones con Inversionistas nacionales o extranjeros, para generar otras oportunidades de negocio que fortalezcan al grupo como Empresa.	
+9. Mantenerse actualizado respecto del movimiento del mercado e industria, para aprovechar las oportunidades que se presenten.	
+10. Apoyar el desarrollo de proyectos, haciendo las mejores propuestas de financiamiento que hagan rentable los proyectos. 1. Bachiller o Titulado de la carrera de Economía.  
+2. Conocimientos en Administración, Finanzas Corporativas y Operaciones Bancarias.
+3. Contar con Diplomado en Finanzas. (Indispensable). 
+4. Experiencia de 2 años en el cargo.
+5. Manejo del idioma Ingles a nivel Intermedio.
+6. Experiencia supervisando personal a cargo.
+7. Mantener intachabilidad en su hoja de vida financiera. (Indispensable)
+8. Contar con conocimientos en el SAP.","('F', 'P')"
+"Especialista de Planeamiento y Control de Gestión •	Realizar el presupuesto General del Banco.
+•	Realizar seguimiento presupuestario del Banco, Oficinas y Productos.
+•	Realizar el seguimiento de la rentabilidad de clientes, productos, oficinas y canales.
+•	Definir y realizar seguimiento a los indicadores de Gestión para medir el desempeño de las áreas de negocios.
+•	Elaborar los reportes de Gestión del Banco.
+•	Dar el mantenimiento de los aplicativos a través de macros de carga y generación de reportes.
+•	Crear macros que faciliten la explotación de datos. •	Deseable post grado en Finanzas.
+•	Mínimo 3 años de experiencia en la posición de analista o analista senior en áreas de Inteligencia de Negocios, Planeamiento Estratégico, Control de Gestión.
+•	Dominio de bases de datos: QlikView /  SQL.
+•	Dominio en la elaboración de Macros.
+•	Excel avanzado.","('F', 'P')"
+"Especialista de Riesgo Financiero y Operativo Realizar el seguimiento y control de la aplicación de las políticas y procedimientos para la administración de los riesgos financieros.
+Elaborar propuestas de actualización del manual de gestión de riesgos de inversión y demás normativa interna relacionada.
+Desarrollar, proponer y aplicar metodologías para la evaluación cualitativa y cuantitativa de los riesgos financieros.
+Identificar, evaluar y controlar los riesgos de mercado y crédito del portafolio de inversiones de los fondos administrados.
+Controlar el cumplimiento de los límites de inversión y de autonomía de inversión establecidos.
+Analizar y evaluar el nivel de riesgo de las inversiones y, de corresponder, elaborar la respectiva propuesta de modificación.
+Evaluar los riesgos de las propuestas de inversión y elaborar los informes respectivos. Experiencia laboral comprobable no menor de (03) años en actividades propias del cargo","('F', 'P')"
+"Jefe de Finanzas y Control - Empresa de Servicios El cargo reporta a la Gerencia General, siendo responsable del manejo de los recursos financieros de la compañía y del cumplimiento oportuno de las obligaciones vigentes (administración del flujo de caja, flujo de deuda, créditos y cobranza, control presupuestal, control de costos). Le compete la elaboración, seguimiento y control del presupuesto anual de la empresa, siendo de su competencia el análisis financiero (estados de pérdidas y ganancias), la presentación de gastos y resultados, la consolidación, revisión y envío de comentarios mensuales, la elaboración del plan financiero trimestral.  Su labor incluye las negociaciones bancarias y el control de presupuesto anual, asegurando que los estándares del servicio financiero y de control estén  alineados con las políticas de la empresa. Lugar de Trabajo: Lima.
+
+Conocimientos Específicos: En planeamiento y control financiero, Cumplimiento Tributario, Presupuestos, Control de Costos, con buen manejo de bancos. Dominio avanzado del Excell.
+
+Tiempo  y tipo de experiencia en puesto similar: Más de tres años en desempeño de puesto similar en el área de Finanzas y Control de Gestión, familiarizado con la planificación y el control de operaciones financieras en empresas del sector servicios.
+
+Idioma Inglés	Intermedio avanzado.","('F', 'P')"
+"ANALISTA DE CUMPLIMIENTO - Preparar análisis y matrices de riesgos de LAFT.
+- Implementar procedimientos y controles derivados de dicho análisis, así como realizar seguimientos a los mismos.
+- Implementar y cumplir procedimientos reforzados sobre clientes de alto riesgo, lo cual es de interés de la SBS y será exigido en sus próximas visitas.
+- Analizar y preparar reportes e información sobre clientes a fin de establecer grados de 
+Preparar y realizar inducciones y capacitaciones al personal de la empresa.
+- Preparar la información que sustente el cumplimiento de las normas, la cual deberá ser presentada en las auditorías internas, externas y de la SBS.
+- El área de Cumplimiento es la responsable de implementar las disposiciones de Foreign Account Tax Compliance Act (FATCA) en la compañía. El analista realizará labores destinadas a implementar eficazmente la norma. ","('F', 'P')"
+"Analista de Planeamiento Comercial • Elaborar los análisis de la eficiencia y eficacia del modelo comercial, para generar aprendizajes e implementar planes de mejora de los procesos involucrados.
+
+• Planificar reuniones de refuerzo y entrenamiento en el Modelo Comercial.
+
+• Elaborar análisis ad hoc de acuerdo a necesidad que faciliten la toma de decisiones respecto del modelo comercial.
+
+• Realizar las capacitaciones del Modelo comercial al callcenter, al nuevo personal de ventas y administrativo.
+
+• Elaboración de análisis  de Resultados de modelo comercial por ciclo de venta.
+
+• Preparación mensual de indicadores de resultados BSC del área.
+
+• Preparación de indicadores de resultados Latam (ciclal)
+
+• Garantizar la correcta comunicación del Modelo comercial por diferentes canales (Consultoría, Intranet, Folletos, etc.) a la fuerza de ventas y stakeholders.  2 años en áreas comerciales y gestión de proyectos comerciales interdisciplinario.
+Cursos: BSC(deseable), Proyectos (indispensable) ó gestión comercial (deseable).","('F', 'P')"
+"Analista Sr. de Créditos y Cobranzas •	Evaluar a los clientes y realizar la asignación de líneas de crédito según el análisis de  riesgo, análisis del mercado e historial de pagos.
+•	Supervisar las cobranzas, realizar la negociación de pagos con clientes, refinanciar deudas, etc. Resolver posibles objeciones, reclamos o quejas de los clientes internos y externos.
+•	Mantener relaciones fluidas con clientes y fuerza de ventas atendiendo a los valores éticos de la compañía.
+•	Dirigir y controlar el proceso de cobranza de los clientes.
+•	Planificar, dirigir y controlar las cuentas morosas de la cartera reduciendo el índice de morosidad de los clientes.
+•	Asegurar de que la cobranza quede diariamente aplicada en el sistema.
+•	Planificar estrategias mensuales, fijando las metas de cobranza y morosidad para los ejecutivos de ventas.
+•	Presentación de Informes, reportes a la Gerencia, Contabilidad y Finanzas, indicadores de cobranzas, morosidad en el área de Créditos y Cobranzas.
+•	Planificar, dirigir y controlar el proceso de otorgación de Créditos a clientes.
+•	Asesorar a todas las áreas en la preparación de su presupuesto y la correcta asignación de costos y gastos.
+•	Preparación y actualización del presupuesto de la empresa, las proyecciones de resultados y los demás EE FF de la empresa.
+•	Identificar mediante el análisis oportunidades de mejora en procesos y eficiencias que permitan la optimización de costos y gastos. •	Conocimientos: Excel a nivel avanzado, manejo de sistemas ERP. 
+•	Experiencia: no menor a  3 años en puestos similares.","('F', 'P')"
+"Asesor de Inversiones • Identificar la necesidad del cliente a través del perfil de inversión, brindando una asesoría especializada mediante una propuesta de inversión.
+• Actualización de conocimientos en temas de inversión.
+• Revisión y monitoreo, seguimiento del portafolio sugerido de Renta Variable, venta cruzada de productos, alineación al asset allocation. • Diplomado culminado o en curso orientado a Negocios.
+• Conocimientos a profundidad de los productos del pasivo.
+• Conocimientos del idioma inglés a nivel intermedio.
+• Conocimientos sólidos en Fondos Mutuos.
+• Mínimo 02 años gestionando cartera de clientes del segmento Premium, Banca Privada o Banca exclusiva y/o experiencia sólida como Asistente Banca Privada, afines.","('F', 'P')"
+"Becario Comercial Lima 1. Apoyo en el ingreso de contratos, creación de órdenes de embarque, administración de la documentación de embarque y apoyo en generación de reportes de venta.
+2. Apoyo en la coordinación y programación de despachos con áreas operativas, proveedores logísticos, de aduanas, transportistas y clientes.
+3. Apoyo en la revisión y verificación de términos contractuales para la facturación provisional y/o final. No necesaria.","('F', 'P')"
+"Encargado de Administración (Banco de Libros – Biblioteca) 1. Planificar, dirigir y supervisar el funcionamiento del Banco del Libro, de acuerdo a los requerimientos propios del servicio que se presta a los alumnos PUCP.
+2. Programar las actividades anuales y semestrales.
+3. Coordinar los requerimientos académicos relativos al uso de libros, así como con la Dirección del Sistema de Bibliotecas PUCP y demás autoridades relacionadas con el servicio que presta.
+4. Planificar y disponer la compra de libros y publicar el catálogo semestral del Banco del Libro.
+5. Coordinar y dirigir el funcionamiento del sistema de préstamo de libros, su devolución y eventual remate de libros, así como decidir sobre el valor del alquiler y el de los libros a rematarse.
+6. Elaborar la rendición de cuentas a la Dirección del Sistema de Bibliotecas y a la Dirección de Servicios Económicos (Contabilidad y Tesorería).
+7. Propugnar la firma de convenios con instituciones externas a fin de ampliar la cobertura de títulos y difundir el sistema del Banco del Libro en otras instituciones educativas.
+8. Organizar, eventualmente, actividades orientadas a estimular la lectura en los estudiantes (Concurso de ensayo: El libro en la cultura humana y el Club de lectura).
+9. Elaborar, hacer seguimiento y controlar el presupuesto de la Sección.
+10. Realizar otras funciones complementarias o afines que le sean designadas por su superior inmediato. ","('F', 'P')"
+"Practicante de Finanzas y Gobierno Corporativo •	Recopilación, procesamiento y análisis de información cualitativa y cuantitativa: La recopilación de información se aborda a través de la interacción con clientes, la revisión de documentación interna y la búsqueda de información pública. Posteriormente la misma es procesada en conjunto con los demás consultores con el objetivo de generar conclusiones que se traduzcan en acciones específicas.
+•	Asistencia en el desarrollo de publicaciones: Periódicamente se realizan estudios relacionados a mercados financieros y de capitales que son publicados en diarios y revistas de reconocido prestigio. 
+•	Asistencia en el desarrollo de proyectos: En su mayoría, los mismos están dirigidos a identificar ámbitos de mejora en materia de mejores prácticas de Gobierno Corporativo, y eventualmente guiar su implementación. Ello aplica tanto para entidades públicas y privadas. No es necesaria.","('F', 'P')"
+"Analista Control de Gastos - Asegurar el control del presupuesto de gastos operativos (generales, personal, depreciación y  amortización), extraordinarios e inversiones de capital (activo fijo e intangibles).
+- Interactuar con los responsables de CDRS y Administradores de Gastos (Unidades Especializadas) en la administración (contabilización, asignación de gastos) de su presupuesto. Efectuar análisis de las principales variaciones.
+- Apoyar en la  elaboración del presupuesto anual  y forecast de gastos operativos, extraordinarios e inversiones de capital con los Administradores de Gasto (Unidades Especializadas).
+- Participar en la definición de criterios de distribución y asignación de gastos operativos, extraordinarios e inversiones de capital hacia unidades de negocio y CDRS.
+- Efectuar la evaluación del desempeño operativo de los canales y producto del Banco (Modelo de Asignación de Costos). Efectuar análisis de las principales variaciones.
+- Preparar información para el Comité de Gastos y Eficiencia, y Unidades Especializadas. ","('F', 'P')"
+"Analista de Negocios - Banca Empresa (Chimbote) Ejecutar transacciones financieras.
+Apoyar al Funcionario de Negocios en la ejecución de créditos.
+Gestionar las solicitudes diarias de los clientes adelantándome a sus necesidades.
+Apoyar al Funcionario de Negocios en los contactos de venta.
+Administrar la cartera asignada. ","('F', 'P')"
+"CONTABILIDAD •Monitoriar y controlar el movimiento de todas las ventas así como los saldos en Puntos de Venta y Almacén Central.
+•Firmar los compromisos de pago con distribuidores y promotoras.
+•Revisar la facturación y control de cuentas por cobrar al personal por responsabilidades de inventarios
+•Controlar de cartera con los canales de subfranquicias, distribuidores, promotoras, clientes y personal
+•Ser responsable desde el punto de vista contable de las ventas, así como los costos e impuestos que generan las mismas
+•Realizar inventarios físicos en toda la compañía: Mínimo 4 veces al año
+•Registrar ajustes y bajas de inventarios.
+•Registrar comprobantes de ventas, costos de ventas y ajustes.
+•Generación de Informes Mensuales.
+•Realizar cierres del canal en consignación y sus respectivos compromisos de pago.
+•Elaboración de inventarios.
+•Control del Débito fiscal originado por las ventas.
+•Registro contable de costos y ventas diarias / mensuales.
+•Apoyarán en todos los temas operativos y administrativos que requiera el jefe inmediato. ","('F', 'P')"
+"Coordinador/a Nacional del Proyecto DCI Duties and Responsibilities
+
+Bajo la supervisión de la Dirección Nacional del Proyecto (DNP) en el MINAM, y en coordinación con el Asesor Técnico del Ecosistemas y Cambio Climático del PNUD, el/la Coordinador/a del Proyecto tendrá la responsabilidad de conducir la gestión de su implementación, incluyendo el monitoreo, la incidencia y las comunicaciones.
+ 
+FUNCIONES
+1) Planificación del Proyecto- “Preparando el camino para la plena implementación de la fase de ""transformación"" de la Declaración Conjunta de Intención Perú-Noruega-Alemania”
+Liderar el equipo técnico de la Unidad de Implementación del Proyecto (UIP), compuesta por especialistas, coordinadores regionales y técnicos de campo.
+Junto con el MINAM/PNCB, el SERFOR, el MINAGRI, los gobiernos regionales de Ucayali y San Martín, el PNUD y el equipo del proyecto, en conversación con otros actores nacionales, regionales y locales, elaborar oportunamente los Planes de Trabajo Anual (AWP) y el Presupuesto Anual para la revisión y aprobación del Comité Directivo del Proyecto.
+Hacer recomendaciones al Comité Directivo del Proyecto sobre revisiones programáticas y/o presupuestarias.
+Definir y conducir conjuntamente con el Comité Directivo del Proyecto la estrategia de ejecución, proponiendo actividades conjuntas y la búsqueda de sinergias programáticas.
+Funcionar de secretario técnico del Comité Directivo del Proyecto.
+Velar por el óptimo desempeño de los aspectos contractuales y de seguridad, del equipo técnico de la UIP; definiendo objetivos de equipo, tanto como individuales a fin de favorecer  el logro de resultados.
+ 
+2) Coordinación de la Implementación del Proyecto
+Coordinar la implementación de acciones del proyecto conforme a los Planes Anuales Trabajo y  Presupuesto, con las contrapartes y otros actores relevantes.
+Guiar la ejecución de actividades y guiar el trabajo del equipo técnico de la Unidad de Implementación del Proyecto (UIP)  para garantizar la pertinencia, efectividad y eficiencia.
+Con apoyo del personal administrativo del proyecto, garantizar la ejecución eficiente y transparente de los recursos financieros y físicos en concordancia con las disposiciones del gobierno, normas y procedimientos del PNUD, incluyendo el monitoreo del presupuesto, la buena rendición de cuentas, etc.
+Proveer insumos técnicos necesarios para los diferentes componentes; incluyendo preparar los términos de referencia para las consultorías externas contratados por el proyecto; supervisar y coordinar su trabajo, y revisar y aprobar sus productos.
+Garantizar que el proyecto se implemente con total participación de los actores de la sociedad civil, en particular los representantes de los pueblos indígenas y comunidades nativas, y que existan mecanismos que garanticen que sus intereses se tomen en cuenta, se comuniquen y se reflejen en la implementación del proyecto.
+Alertar al Comité Directivo del Proyecto de dificultades en referencia al avance y cumplimiento del plan de trabajo.
+Promover la participación coordinada de las instituciones gubernamentales y la sociedad civil a nivel central y local durante la implementación del proyecto.
+Elaborar y supervisar la implementación de los manuales operativos para la ejecución del proyecto.
+En comunicación con la Dirección Nacional del Proyecto y con el Asesor Técnico del PNUD, garantizar que el proyecto se implemente en concordancia con las políticas y los planes del MINAM, como asociado en la implementación, y el Programa de País del PNUD en Perú.
+Apoyar y promover la equidad de género y la inclusión social en las actividades del proyecto así como entre los miembros del equipo y promover la transversalización del enfoque de género en las acciones del proyecto.
+Promover los mecanismos de coordinación necesarios para la articulación entre los diferentes actores y entre las diversas actividades, productos y resultados, con especial atención a la coordinación con otros entes competentes (SERFOR, MINAGRI, gobiernos regionales).
+Facilitar la resolución de disputas entre socios y resolver los obstáculos para la ejecución a tiempo y con eficiencia para el logro de los resultados.
+ 
+3) Monitoreo y Evaluación (MyE)
+Supervisar cercanamente el diseño y desarrollo del sistema de Monitoreo y Evaluación por parte de el/la especialista.
+Asegurar la implementación y seguimiento del Plan de Monitoreo y Evaluación del Proyecto.
+Coordinar y monitorear convenios con contrapartes que facilitan la ejecución y monitoreo local del Proyecto.
+Organizar y apoyar las evaluaciones externas independientes del proyecto.
+Coordinar la implementación del Marco de Gestión Social y Ambiental, así como la ejecución de la Evaluación de Impacto Social y Ambiental y las medidas de mitigación correspondientes.
+Facilitar y coordinar visitas de campo de los miembros del Comité Directivo del Proyecto.
+Facilitar la toma de decisiones sobre acciones correctivas, y su implementación, como resultado de los hallazgos del MyE.
+Proveer de actualizaciones regulares sobre los avances del Proyecto solicitadas por el Comité Directivo del Proyecto.
+Realizar un seguimiento continuo y periódico de los impactos del proyecto con respecto a los productos previstos en los planes de trabajo anual y los presupuestos, y los impactos previstos en el marco de resultados del proyecto.
+ 
+4) Gestión del Conocimiento
+En coordinación con las partes responsables, asegurando una adecuada documentación de los procesos institucionales con miras a generar un inventario sistematizado de las lecciones aprendidas.
+Supervisar cercanamente la sistematización y estrategia de comunicaciones del Proyecto.
+Identificar y analizar las lecciones aprendidas, y distribuir información sobre las mismas a los socios del Proyecto.
+Participar de reuniones, talleres, capacitaciones y eventos organizados por los miembros del Comité Directivo u otras organizaciones colaboradoras.
+Apoyar el funcionamiento del Comité Directivo del Proyecto a través de asesoría y apoyo logístico.
+Identificar los impactos, los riesgos y su probabilidad de ocurrirse, que podrían afectar el logro de los resultados previstos del proyecto; y definir y aplicar las correspondientes estrategias de mitigación.
+Facilitar la construcción de capacidades y el involucramiento de los principales actores en el enfoque del proyecto.
+ 
+INFORMES
+Elaborar informes para su revisión por la Dirección Nacional del Proyecto, el Comité Directivo (CD) y el PNUD, de acuerdo al Plan de Monitoreo y Evaluación del proyecto y según sea solicitado por miembros del CD. ","('F', 'P')"
+"Analista de Estudio y Mercado - Evaluación de proyectos de inversión del sector Retail real estate (proyectos de CC y evaluación de ampliaciones).
+- Valorización de centros comerciales.
+- Evaluaciones y valorizaciones mediante la metodología de flujo de caja libre (dominio de TIR, VAN, WACC, Payback, proyecciones, etc).
+- Análisis financieros (EEFF e interpretación de indicadores).
+- Análisis económico (ingresos por NSE, número de hogares, estadísticas económicas generales).
+- Elaboración de presentaciones para Directorio.
+- Identificación de la competencia, mapeo general de la industria (Market share, ratios Retail comparables). Equity de empresas comparables, lectura de acontecimientos de la industria.
+- Actualización de mercados (ingresos, hogares, variables macro y micro, clasificaciones de riesgo, emisiones de bonos, informes trimestrales, memorias etc).
+- Cuantificación del tamaño de mercado (No indispensable).
+- Elaboración de isócronas, propuesta de canibalización, depredación de mercado (No indispensable). - Ingles Intermedio.
+- Manejo de Excel (macros a nivel básico).
+- Dominio de Power Point y Google Earth (usuario).
+- Manejo de Earth (usuario).
+- Manejo de ArcGis o MapDrive (No indispensable).
+- Con 2 años de experiencia en evaluación de proyectos y/o investigación de mercados.","('F', 'P')"
+"Analista de Finanzas a.	Revisión, control, seguimiento y aprobación según sea el caso de letras en descuento en coordinación con el área de Logística, brindar soporte en la elaboración de letras, informa de las alertas que afectan el flujo de caja a la Gerencia Financiera.
+b.	Revisión de las causas de desviaciones de los principales rubros de ingresos y gastos.
+c.	Revisión y análisis de Estados Financieros a las empresas en las cuales Casablanca le presenta el servicio de Planeamiento Financiero. Cálculo y análisis de principales ratios financieros (liquidez, solvencia, gestión y rentabilidad), análisis de tendencias y recomendaciones de ajuste / políticas para generar eficiencia financiera. Elaborar, presentar y hacer seguimiento de Indicadores financieros y de gestión.  
+d.	Revisión /preparación, análisis y proyección de flujos de caja, tanto histórico como proyectado. Análisis de ciclo de conversión de caja. Liquidez operativa. Análisis de CxC / CxP.  Definición de flujos de fondos de la empresa para proyectar necesidades de caja y capital de trabajo. Elabora proyección a los EEFF.
+e.	Detalle control y seguimiento mensual de las obligaciones bancarias con sus condiciones y características.
+f.	Seguimiento y control de los préstamos con sus respectivos cronogramas de pago así como el cálculo prorrateado de los intereses mensuales.
+g.	Elabora formatos y requerimientos para líneas de créditos con Instituciones Financieras así como la renovación de las mismas, responde consultas e inquietudes de las Instituciones financieras coordinando con las demás áreas de la empresa.
+h.	Detalle, control y seguimiento de las operaciones de cobertura o derivados realizadas con sus condiciones y características.
+i.	Elaboración de proyecciones de deuda y gastos financieros para el presupuesto anual.
+j.	Elaboración de reportes de gestión de control interno y externo (bancos, accionistas).
+k.	Evaluación de proyectos de inversión para la empresa. Análisis Costo/Beneficio.
+l.	Coordina y supervisa el proceso de recolección de información.
+m.	Elabora proyectos de normas o procedimientos relacionados al área.
+n.	Brindar soporte en la elaboración de proyecciones y del plan financiero.
+o.	Apoyar en la consolidación, elaboración, análisis de información de las líneas de negocio.                                    
+p.	Revisar y analizar la información de proyectos de inversión.
+q.	Apoya en las revisiones de auditoria (interna y externa).
+r.	Análisis de desviaciones de gastos contra presupuesto.
+s.	Análisis de márgenes, costos de ventas por línea de negocio y/o producto. Revisión de la estructura de gastos de las empresas: administrativos, de ventas, financieros y otros. Análisis de contribución marginal y eficiencia operativa. Asignaciones de gastos.
+t.	Preparación de informes, reportes y presentaciones por las Gerencias, así como seguimiento a los planes de acciones y recomendaciones realizadas para la empresa.
+u.	Otras funciones afines que le asigne la Gerencia de Finanzas. ","('F', 'P')"
+"Funcionario de Relación MID-MARKET - Desarrollar permanentemente  gestión  comercial con clientes y no clientes segmentados en mediana empresa, asesorándolos financieramente y ofreciéndoles los diversos productos y servicios del banco, contribuyendo al logro de metas y rentabilidad de la banca.  
+- Identificar las necesidades de los clientes actuales y potenciales, proponer y concretar productos y servicios que satisfagan sus necesidades con la finalidad de mantener una óptima captación y colocación de recursos, control de la rentabilidad y seguimiento de la cobranza. (plan de visitas, llamadas, revisión de historial crediticio, pipeline comercial). 
+- Evaluación comercial, financiera y crediticia de clientes, elaborando  propuesta  de  créditos  que  maximicen la rentabilidad y disminuyan el riesgo.
+- Análisis e interpretación de estados financieros, preparación de memos de reconsideración y/o modificación, riesgos equivalentes, manejo de información para  los Deals Forum necesarios y asistencia a  los Comités de Vigilancia.
+- Evaluar el desempeño de clientes que mantengan productos activos y pasivos, desarrollando acciones de venta cruzada y prevención de retiros de fondos con la finalidad de fidelizar a los clientes vinculándolos con productos del banco.
+- Efectuar labores de prevención, recuperación y cobranza cuando sea  pertinente, a partir de un adecuado seguimiento a su cartera de clientes con productos activos, asegurando  que los índices de morosidad sean adecuados a la rentabilidad sugerida de la cartera.
+- Coordinar con las unidades del Team Coverage, para mejorar la experiencia del cliente, mejorando los tiempos de respuesta y optimizando el manejo general de las carteras. ","('F', 'P')"
+"Representante de Servicio al Cliente Entidad bancaria que cuenta con el respaldo del Grupo IF,  tiene 25 años de presencia en Perú, con más de 88 oficinas a nivel nacional, que se encuentra dentro de las mejores empresas para trabajar según la encuesta GPTW, nos encontramos en búsqueda de Representantes de Servicio al Cliente para las exclusivas zonas de Miraflores, San Isidro, La Molina y San Borja.
+ 
+Funciones:
+
+Brindar un servicio personalizado y oportuno dentro de los estándares de calidad de servicio establecidos  para el público desde las ventanillas y ofrecer productos y servicios que posee el banco.
+Realizar transacciones financieras.
+Cumplir con las normativas de protección de lavado de activos.
+Atender a los clientes en base a la política de calidad.
+Manejo de caja y cuadre de efectivo diario.
+Responsable de verificación de autenticidad de valorados.
+Cumplimiento de políticas de seguridad.
+Disponibilidad para trabajar en los diferentes distritos de Lima de L-V 8.30 am-6.00pm y S 8.30am-1.00pm. INDISPENSABLE - Mínimo 6 meses de experiencia como cajero de Bancos o tiendas retail como: Representante Financiero, Promotor de Servicios, Asesor Financiero o afines. 
+Disponibilidad para laborar de Lunes a Sábado.","('F', 'P')"
+"Analista de Estrategia de Canales Diseñar y optimizar estrategias de negociación de cobranzas para los productos de la Banca Minorista y Segmentos de clientes Pyme y Refinanciados.
+Hacer seguimiento de la evolucion de los indicadores operativos y de negocio.
+Gestionar proyectos de cobranza de distinta complejidad.
+Coordinar con areas operativas y de gestión al cliente las estrategias que se estan aplicando.
+Hacer seguimiento a implementación de proyectos.
+Crear reportes de seguimiento de los productos de refinanciamiento. Experiencia realizando practicas en proyectos, tesorería, finanzas, riesgos o mejora de procesos (Minima de 6 meses).
+Experiencia manejando base de datos grandes.
+Experiencia en el análisis de la información, proponer estrategias.
+Excel Avanzado (Indispensable).
+Conocimiento a nivel básico de PLSQL.","('F', 'P')"
+"Asesor Corporativo de Inversiones Senior - Identificar y concretar oportunidades de negocio para los productos de Gestión de Activos con la finalidad de contribuir al incremento de la participación de mercado y la rentabilidad de los negocios.
+- Responsable de administrar la cartera de clientes corporativos de los fondos mutuos de la SAF: Instituciones Financieras, Corporativo, Institucional, Grandes y Medianas Empresas y Banca Patrimonial de Scotiabank.
+- Asegurar el crecimiento en número, tamaño y rentabilidad de los portafolios de clientes de Gestión de Activos.
+- Desarrollar la gestión comercial con los clientes que garantice el cumplimiento de las metas establecidas en el plan comercial, con el objetivo de incrementar la participación de mercado de fondos mutuos y portafolios privados de inversión de acuerdo a las necesidades y el perfil de riesgo del cliente.
+- Asesorar y capacitar permanentemente a los funcionarios y Gerentes de Relación de las Bancas Corporativa, Empresa e Institucional en lo referente a los productos de gestión de activos.
+- Coordinar con los Gerentes Zonales y Gerentes de Agencia, la planificación y ejecución de las capacitaciones, talleres grupales, visitas a agencias/clientes necesarios para el cumplimiento del plan de negocios referente a los productos de inversión de dichas zonas, específicamente en el segmento corporativo y empresas.
+- Apoyar en la realización de eventos con la finalidad de fomentar el consumo de los productos de inversión de Gestión de Activos que ofrece el banco a sus clientes. - Bachiller o titulado de las carreras de Administración, Economía o afines.
+- Experiencia mínima de 5 años en puestos similares de: Funcionario de Negocios, Funcionario de Banca Corporativa, Institucional o Empresa.
+- Conocimiento integral del negocio de Administración de Portafolios de Inversión, Mercado de Capitales, Productos de Fondos Mutuos.
+- Dominio del idioma inglés a nivel avanzado.
+- Manejo de Microsoft Office a nivel intermedio / avanzado.","('F', 'P')"
+"Budget Analyst Gestión y actualización permanente de toda la información de presupuesto: mantener actualizadas las estructuras de cuentas, jerarquías, WBS y realizar la conciliación con la información contable con el fin de verificar que esta se encuentre registrada en las cuentas correctas.
+
+Coordinación constante con Contabilidad y IT: Reconciliación de la contabilidad e información de presupuesto,  revisión de saldos acumulados,  actualización de códigos contables y estructuras (cuentas GL, WBS, etc.).
+
+Preparación del presupuesto anual (CAPEX, OPEX y proyectos): Verificar que la información sea registrada apropiadamente y con exactitud en el sistema BPC, realizar pruebas y asegurarse de que la obtención de la información sea en forma clara y oportuna.
+
+Preparación de forecast: Verificar que la información sea registrada apropiadamente y con exactitud en el sistema BPC, realizar pruebas y asegurarse de que la obtención de la información sea en forma clara y oportuna.
+
+Reportes mensuales: Mantener y ejecutar reportes del sistema BPC con el fin de verificar que la información este procesada de forma oportuna y correcta. ","('F', 'P')"
+"Gerente General para Empresa de Seguridad Responsable de la gestión integral de los servicios de seguridad, resguardo, vigilancia y portavalores.
+Establecer objetivos, desarrollar planes, diseñar estructuras y establecer procesos de control a nivel operativo, estratégico y financieros respectivamente. 
+Alinear las operaciones a los objetivos estratégicos de la empresa y velar por su correcto cumplimiento.
+Elaborar presupuestos, revisar estados financieros e implementar indicadores de gestión a presentar al directorio.
+Establecer políticas de acuerdo a los lineamientos del directorio.
+Poner en marcha las directrices acordadas en la junta de accionistas.
+Ejercer responsabilidad jurídica, comercial y administrativa de la organización.
+Gestionar y firmar los acuerdos comerciales con nuevos clientes.
+Planificar, organizar, dirigir, coordinar y controlar los servicios de seguridad a nivel local y provincial.
+Gestionar al personal operativo mediante la asignación de puestos, descansos, vacaciones, retenes, etc.
+Gestión integral de la flota de vehículos, armamento, implementos de seguridad, equipos de comunicación, entre otros.
+Viajar regularmente para supervisar las operaciones de los clientes ubicadas en el interior del país. Experiencia mínima de 3 años en puestos de jefaturas o gerencias de operaciones en empresas de seguridad o afines y/o  2 años ocupando el puesto de gerente general.
+Conocimiento de normativas de empresas de seguridad, de finanzas y operaciones.
+Disponibilidad para viajar frecuentemente y trabajar en mina.
+Capacidad para trabajar bajo presión y habilidades de liderazgo.","('F', 'P')"
+"Oficial de Finanzas-País El oficial de finanzas del país tendrá como objetivo: verificar, ejecutar, consolidar e informar sobre los datos financieros y actividades de soporte en el país, asesorar el manejo de gestión financiera, asegurar la estabilidad y transparencia de las finanzas del país en general, políticas y procedimientos de finanzas y recursos humanos, así como procedimientos, reglamentos y directrices de los donantes.
+
+Descripción de responsabilidades
+
+Responsabilidades financieras:
+- Dirigir el proceso presupuestario anual y la previsión periódica en estrecha colaboración con la Dirección de País, los gerentes de proyecto y los Administradores de proyecto.
+- Apoyar a los responsables del presupuesto para asegurar el cumplimiento de los procedimientos presupuestarios y las regulaciones de los donantes/corporaciones.
+- Asegurar el control, monitoreo y ejecución de todas las actividades financieras relacionadas en el país, incluyendo logística, compras, TIC en el país.
+- Ejecutar todas las actividades y verificaciones necesarias para asegurar la asignación completa y correcta de costos, incluyendo la integridad y corrección del tiempo registrado y asegurar que los reportes internos y externos estén alineados con los reglamentos financieros, normas y directrices financieras del SNV y requisitos del donante.
+- Comprobar y consolidar los datos financieros del país/presupuesto interno de los proyectos/fondos.
+- Garantizar el proceso de cuentas por pagar y por cobrar y asegurar los requisitos relacionados con los impuestos.
+- Realizar la conciliación de las administraciones, administrar las cuentas del libro mayor, así como administrar y mantener los niveles de efectivo y liquidez.
+- Proporcionar datos y análisis financieros a las partes internas y externas pertinentes como insumos para la toma de decisiones y el manejo, así como para responder las preguntas relacionadas con la administración financiera y los datos sobre la base de solicitudes y procedimientos corporativos.
+- Supervisar las prestación de Servicios TIC en el país, basándose en el acuerdo de nivel de servicio con el proveedor de servicios externos y los servicios TIC corporativos.
+- Realizar evaluaciones internas de cumplimiento y control, identificar y abordar áreas de riesgo e implementar medidas para minimizar el riesgo de irregularidades, coordinar auditorías basadas en el cumplimiento corporativo y procedimientos de auditoría y en consulta con el Oficial de Finanzas de Campo, equipo de gerencia del país y Administradores de proyectos.
+- Analizar las principales inversiones y cuentas de costos, asegurar, supervisar y aprobar la adquisición y mantenimiento de equipos, activos y medios de transporte y los contratos y contratos de arrendamiento pertinentes, así como los arreglos logísticos y de viaje, equilibrando los requerimientos de los usuarios y las necesidades del negocio y presupuesto; Alineados con las directrices y los niveles de autorización de la empresa.
+
+Responsabilidades de gestión:
+- Describir con exactitud la situación financiera de SNV / país en el futuro (2-3 años), traduciendo los requisitos del negocio en los requisitos funcionales de finanzas y desarrollar la estrategia de finanzas para el país, equilibrar los intereses del país, regulación relevante, normas y directrices empresariales, teniendo en cuenta la configuración del proyecto con las diferentes regulaciones de los donantes.
+- Contribuir al desarrollo de estrategia de país, el manejo y gestión de los proyectos.
+- Apoyar a los Gerentes de Proyecto para configurar la gestión de administración finanzas y procedimientos de los Proyectos guiados por el contrato firmado con el donante, conforme con las directrices del Gerente de Proyectos de SNV, normas de gobierno corporativo y procedimientos de donantes de SNV.
+- Presentar mensualmente los informes financieros consolidados al Director de País, asesorar al director de País sobre la interpretación del informe consolidado sobre la situación financiera de todos los proyectos y asistir en la discusión con los gestores de proyecto en caso de que la rentabilidad del proyecto de razón.
+- Informar regularmente sobre la situación financiera general del país, usando los formatos corporativos de presentación de informes y dentro de las directrices de la unidad de apoyo global financiera para el debate de la administración.
+- Analizar e interpretar las tendencias del país/proyectos, el desempeño financiero y el registro del tiempo frente a la planificación, realizar análisis financieros internos y externos de proyectos específicos.
+- Dirigir/o participar en proyectos relevantes (corporativos) así como organizar, reclutar, desarrollar y motivar al personal de su propio equipo y dirección funcional de los administradores del proyecto. Requerimientos indispensables:
+- Egresado de carreras administración / contabilidad o carreras afines con experiencia profesional mínima de 5 años.
+- Experiencia demostrada ejecutando actividades relacionadas a este puesto de trabajo.
+- Experiencia demostrada de gestión y monitoreo eficiente y efectivo de equipos.
+- Especialización en finanzas y diseño de estrategias financieras.
+- Dominio del idioma inglés tanto oral como escrito.
+ Dominio y experiencia demostrada con el uso de SAP.
+- Proactivo y orientado a resultados.
+- Capacidad de organizar y planificar sus actividades de manera eficiente y efectiva.
+- Capacidad de trabajar en equipo y bajo alta presión.
+
+Experiencia deseada:
+- Experiencia con el uso de SAP By Design.","('F', 'P')"
+"Programa Trainee Generación 360° El Banco Financiero te invita a participar de su proceso de selección para formar parte de Generación 360° BF. 
+
+Generación 360° BF es un Programa Trainee que tiene un período de pasantías por cada área del Banco, lo que te permitirá desarrollar una visión integral del negocio agregando valor y ser un futuro líder con alto desempeño. El programa te brinda la oportunidad de desarrollar proyectos de alto impacto y obtener experiencia en una de las entidades financieras de mayor crecimiento en el Perú.
+
+¿Qué ofrece el Programa Trainee Generación 360° BF?
+
+• Visión integral del negocio: pasantía de 5 meses por todas las áreas del banco.
+
+• Apoyo de un mentor: te guiará a lo largo de todo el programa y realizará seguimiento constante de tu aprendizaje. 
+
+• Oportunidad de hacer línea de carrera: Al finalizar el programa, puedes ingresar como contratado a una de las áreas de tu interés.
+
+• Desarrollo de proyectos: lo que te permitirá agregar valor a la organización y obtener reconocimiento. •Interés por laborar en el sector financiero.","('F', 'P')"
+"Analista de Financiamiento Estructurado 1. Análisis y coordinación de las operaciones de financiamiento del grupo en Perú (bonos, operaciones de leasing, préstamos, etc.)
+2. Apoyo en el diseño y seguimiento de la estrategia financiera del grupo en Perú
+3. Realización de análisis financieros estratégicos (valorizaciones, análisis de estados financieros, etc.)
+4. Apoyo en el manejo de la relación con inversionistas Finanzas corporativas (deseable)
+Mercado de capitales (deseable)
+Familiaridad con la plataforma Bloomberg","('F', 'P')"
+"Analista de Proyectos Estratégicos •	Implementar metodología de gestión de proyectos
+•	Implementar sistema de control de proyectos:
+-	Definir indicadores que midan Estado de Avance, Control de Gastos, Riesgos, etc.
+-	Tracking de reprogramaciones y rebalanceo de recursos.
+•	Verificar que los proyectos que están en ejecución, responden a la estrategia de la empresa.
+•	Controlar Indicadores Portafolio de Proyectos de la compañía.
+•	Realizar seguimiento al portafolio de proyectos estratégicos, mediante reuniones con los participantes.
+•	Elaborar reportes de seguimiento y estatus de proyectos para informar al comité de gerencia el grado de avance.
+Identificar riesgos y comunicar de manera oportuna a los líderes de proyectos para poner en práctica planes de mitigación.
+Identificar oportunidades de mejora que tengan alto impacto en tiempos y costos durante la ejecución de los proyectos.
+Coordinar la planificación, asignación y rebalanceo de recursos para los proyectos.
+Liderar el proceso de Planeamiento Estratégico con apoyo del equipo de Planeamiento Corporativo Profesional universitario de las carreras de Administración, Economía o Ingeniería Industrial.
+Experiencia profesional mínima de 2 años y de 1 año como analista en áreas de proyectos.
+Conocimientos en gestión de proyectos
+Conocimiento financiero básico
+Con disposición para manejar y/o desarrollar la metodología “Agile Project Management”
+MS Office Intermedio/Avanzado 
+Inglés Intermedio/Avanzado","('F', 'P')"
+"Coordinador de Planificación Financiera Mantener y actualizar periódicamente el modelo financiero.
+Realizar el análisis financiero de la compañía.
+Realizar seguimiento a la Deuda de la compañía.
+Gestionar Clasificación de Riesgo.
+Análisis Financiero de la competencia. Mínimo 3 años de experiencia en áreas de Valoración de Empresas, análisis de Modelos Financieros, análisis de inversiones y/o control de gestión.
+Experiencia en el sector eléctrico o deseables en empresas de: Fondos de inversión, Bancos (inversiones, renta fija), en Área de Controlling.
+Deseable Maestría en Finanzas.","('F', 'P')"
+"Gerente de Riesgos Construcción de modelos de riesgo de crédito, con habilidades y conocimientos en el uso y aplicación de técnicas estadísticas y manejo de herramientas predictivas.
+Definición de estrategias y políticas crediticias de integración de riesgo de crédito.
+Desarrollo de métricas para Capital Económico y Apetito de Riesgos.
+Administración de Pricing y Rating de Banca Mayorista y Minorista.
+Desarrollo de modelos de gestión de pérdidas esperadas y no esperadas. No menor de 5 años en entidades financieras locales o globales de primer nivel y/o en firmas consultoras que brindan servicios de riesgo crediticio.
+Experiencia mínima de 5  años a nivel gerencial y/o directivo, mínimo 10 años de experiencia en la industria financiera en áreas de crédito o de riesgos, con experiencia en la supervisión de proyectos y/o equipos de profesionales.
+
+Conocimiento de Informática:		
+Programas estadísticos]
+SPSS (Statistical Package for the Social Sciences)
+@ Risk
+Minitab
+Microsoft Office: Access, Excel, 
+
+Deseable: 
+Con certificación PRM (Professional Risk Manager), emitido por la PRMIA (Professional Risk Management International Association); o Con certificación CFA (Chartered Financial Analyst), emitido por el CFA Institute 
+Maestría en Finanzas o Estadística","('F', 'P')"
+"Practicante de Inversiones - Base de Datos 1. Apoyar con la mejora y automatización de los reportes del área.
+2. Apoyar con la implementación y desarrollo de modelos de análisis de base de  datos y modelos económicos. Deseable experiencia previa en manejo de base de datos","('F', 'P')"
+"Practicante de Negocios Sostenibles -Brindar el soporte administrativo y comercial al proceso de Venta del área de Negocios Sostenibles para el cumplimiento de las metas. Mantener actualizadas las herramientas las de gestión interna para la generación de reportes y análisis de las estadísticas comerciales. Coordinar las reuniones comerciales del equipo y las actividades generales del Gerente de Negocios Sostenibles.
+- Soporte administrativo comercial de la atención del proceso de elaboración de propuestas (archivo y manejo de información y documentación confidencial de la empresa).
+- Apoyo en la actualización de las herramientas comerciales internas: Master Tool (Base de datos de Ventas), Base de Datos de proyectos de la empresa (Listado con información general de los proyectos desarrollados por la empresa) y otras herramientas que se desarrollen con el fin de tener un control estadístico de las ventas y dar soporte al proceso de ventas
+- Apoyo en el desarrollo del material para presentaciones, propuestas y demás.
+- Control y seguimiento del proceso de ventas para las estadísticas internas.
+- Coordinación de reuniones, viajes y eventos del Gerente del área.
+- Responsable del monitoreo de las principales páginas web del estado y cooperaciones para la identificación de potenciales oportunidades de negocios.
+- Analizar y realizar reportes de los avances del área respecto a sus metas mensuales, trimestrales y anuales. 
+- Trabajar de la mano con los Ejecutivos de Ventas para el cumplimiento de las metas del área.
+- Participar en la planificación del área. Conocimiento de Master Tool (Base de datos de Ventas).","('F', 'P')"
+"Reclutamiento Practicante R-P N° 071-2016 Dpto. Analisis Sistema Financiero Actualizar cuadros y gráficos así como el informe de evolución del sistema financiero, sobre la base de la información de anexos y reportes remitida por las empresas del sistema financiero.
+
+Apoyar a los analistas del Dpto. en la elaboración de diversos informes que tiene a cargo, tales como el informe de principales variables de la banca múltiple, el reporte de fondeo y el informe referido a un mercado en particular, ya sea de crédito o de depósito. 
+
+Revisar la información base y actualizar la data, tanto de fuente SBS como de fuente externa, que se presenta a nivel geográfico en el Mapa de oportunidades de inclusión financiera. Alumno a partir del 8vo ciclo de Economía o Ingeniería Económica. 
+Inglés a nivel intermedio. 
+Excel y bases de datos a nivel avanzado. 
+Word y Power Point a nivel intermedio. 
+Stata o SPSS a nivel básico. 
+Dominio de herramientas  estadísticas e informáticas que le permitan el manejo y procesamiento adecuado de bases de datos de gran dimensión. 
+Capacidad de análisis, creatividad para el uso de variables e indicadores económicos y financieros.","('F', 'P')"
+"Administrador de Obra - Moquegua Objetivo del puesto:
+Gestionar los servicios generales, contabilidad, recursos humanos, logística, soporte de TI, contratos de servicios de terceros y el control interno en la obra. También tiene a cargo la administración de las buenas relaciones con las comunidades vecinas así como las gestiones ante las entidades públicas y privadas en el ámbito de ejecución de la obra. 
+Funciones: 
+Participar en la elaboración del plan de dirección del proyecto, la elaboración del presupuesto de gastos generales de la obra, el flujo de caja proyectado de la obra.
+Participar en el comité de obra semanal convocados por el Gerente de Proyecto. 
+Realizar el seguimiento de los consumos de materiales y repuestos para ajustar los parámetros de existencias en función a las necesidades de la obra. 
+Presentar mensualmente el reporte de conciliación de gastos de obra discriminando entre los producidos por obra y los realizados.
+Gestionar las transferencias de caja a obra, cartas fianzas, seguros, entre otros. 
+Administrar la caja chica de la obra, entregando fondos, recibiendo y validando sustentos, efectuando las rendiciones de cuenta de acuerdo al origen. 
+Realizar la programación de pagos a proveedores y subcontratistas.
+Supervisar y entregar los Estados Financieros mensuales al Gerente de Proyecto. 
+Aprobar la emisión de cheques, órdenes de compra, conformidad de servicios, valorización de sub contratistas. 
+Gestionar los contratos y sub contratos del proyecto. 
+Supervisar y revisar la elaboración de la planilla en cuanto a pagos y tareos. 
+Supervisar las actividades de capacitación, recreación, bienestar social, servicios médicos, entre otros, para el personal. 
+Aprobar las compras locales, en coordinación con el Gerente de Proyecto 
+Planificar el desarrollo de los trabajos, en coordinación con SSOMA, a fin de garantizar que se implementen las medidas preventivas y de control establecido en los procedimientos de trabajo y directivas de SSOMA.
+Liderar las brigadas de respuesta ante emergencia de la obra. 
+Supervisar la operatividad y disponibilidad de todos los servicios generales de la obra y campamentos. Titulado en Administración de Empresas, Ingeniería Industrial, Contabilidad, Economía o afines. 
+Diplomado en administración. 
+Deseable MBA o Maestría en Logística
+Conocimiento de Sistema ERP –ORACLE. 
+Mínimo 3 años en proyectos de construcción (no menores a 80 millones de soles)
+Dominio de finanzas (flujos de caja, análisis de estados financieros, costos)","('F', 'P')"
+"Analista de Desarrollo de Negocios Analizar todos los sectores de mercado en los que participa Enel.
+Analizar el mercado actual en función a necesidades por mejorar o no cubiertas hacia los clientes B2B y B2C a fin de entregar una propuesta de valor innovadora y diferencial para evaluar su implementación.
+Desarrollar alianzas con socios y proveedores estratégicos para poner en marcha modelos de negocio rentables y sostenibles que aporten valor a Enel
+Implementar pilotos de pruebas de los diversos modelos de negocio para corroborar las premisas de los casos de negocios con los que estos se conceptualizaron.
+Revisar propuestas de socios identificando oportunidades y mejoras para impulsar el margen PSVas de Enel.
+Gestión y seguimiento a proyectos en desarrollo e implementación. Bachiller o Titulado de Economía, Ingeniería Industrial, Administración, Finanzas o afines interesados en pertenecer a una empresa líder del sector energía.
+Experiencia en desarrollo de productos, servicios y canales.
+Dos años de experiencia en la elaboración y prueba de modelos de negocio.
+Experiencia en planeamiento de opciones y definición de modelos de negocios validando previamente su viabilidad con los diversos stakeholders y áreas de staff de la empresa.","('F', 'P')"
+"Analista Sectores Productivos - Semana Económica El analista tendrá la misión de informar a nuestras audiencias –tanto en la edición impresa como en nuestra web semanaeconomica.com– sobre la evolución de los sectores primarios y manufactureros de la economía peruana (minería, energía, agro, pesca, industria, etc).
+
+El trabajo implica:
+-Seguir a detalle la coyuntura económica y particularmente a los sectores asignados.
+-Monitorear la evolución de las principales empresas de la industria (mineras, energéticas, industriales, constructoras, agroindustriales, etc.).
+-Entrevistar a los ejecutivos más importantes de estos sectores.
+-Cubrir las principales conferencias y foros empresariales. -Economista o Administrador con interés en los sectores 'duros' de la economía (minería, energía, industria, etc), de preferencia con experiencia en análisis económico y/o financiero.
+-Sólido conocimiento macro un plus.
+-Capacidad de relacionamiento a nivel empresarial.
+
+Un analista de SE combina las habilidades de un investigador o analista de mercado (capacidad de razonamiento y abstracción), con las de un periodista (ganas por estar actualizado, búsqueda y seguimiento de los hechos más relevantes de la industria).
+
+Buscamos personas capaces de analizar eventos desde la perspectiva económica, que les guste investigar y saber más que el resto, que sientan genuina curiosidad por la actualidad empresarial, económica y social. Que les guste escribir y escriban bien.","('F', 'P')"
+"Asistente de Investigación - El Asistente trabajará directamente con la Coordinadora del Área en lo que se refiere a actividades integradoras y colectivas del área.  Además, colaborará con los investigadores en sus respectivos proyectos de investigación, en los temas prioritarios del Área.
+- Elaboración del Boletín Economía y Ambiente y el Calendario Ambiental.  De igual forma, brindará apoyo en la organización de materiales para la presentación y elaboración de consultorías.  También, colaborará en diversas actividades de comunicación, difusión y organización de eventos del área, entre otras actividades de interés del Área. - Egresado, Bachiller o Titulado de la carrera de Economía.  Deseable contar con estudios especializados en temas ambientales. 
+- De preferencia, pertenecer al tercio superior.
+- Manejo de Inglés a nivel avanzado.  
+- Experiencia profesional o pre‐profesional: Mínima de 6  meses de preferencia en temas relacionados con el área.
+- Conocimiento: Bases de datos y paquetes estadísticos (STATA, E-VIEWS, entre otros).
+- Capacidad de organización, trabajo en equipo.","('F', 'P')"
+"Jefe Admistrativo y Financiero Responsable del óptimo manejo de los procesos administrativos y financieros, así como de los recursos humanos, materiales y económicos de la empresa orientada a dar soporte a la gestión comercial. Son de su competencia el manejo del inventario y de la tesorería, incluyendo la interpretación y presentación de los estados financieros, la elaboración de proyecciones de flujo de caja y el balance del resultado. El profesional idóneo deberá contar con experiencia en compras internacionales y la gestión de almacén (entradas, reposición, preparación de pedidos y transporte de los mismos), coordinando el control e ingreso de productos importados para su comercialización, en estrecha coordinación y contacto con los agentes de aduanas. Le corresponde la supervisión y el control de la política administrativa de personal, la logística interna e infraestructura. Se relaciona con proveedores de bienes y servicios, así como con entidades relacionadas a su actividad empresarial. Lugar de Trabajo: Sede Lima, coordinando con unidades que se vayan ubicando en las zonas operativas donde se desarrollan los trabajos de sus clientes.
+
+Formación Académica: Profesional Universitario(a), residente o con posibilidad de residencia en Perú, egresado(a) de los programas de Contabilidad, Administración o afines, con estudios complementarios de postgrado en Finanzas o Administración de Negocios.
+
+Conocimientos Específicos: Familiarizado con las NICs y NIIFs, deseable con conocimiento de Concar.
+
+Familiarizado con la gestión logística de productos importados.
+
+Tiempo  y tipo de experiencia en puesto similar: Cinco años en el desempeño de puestos similares con línea progresiva en el ámbito Administrativo-Financiero, preferentemente provenientes de empresas locales o transnacionales vinculadas a la Minería, Construcción, Energía y/o Agroindustriales. Se tendrá especial consideración la experiencia de trabajo con empresas extranjeras latinas.
+
+Idioma Inglés	Intermedio-avanzado","('F', 'P')"
+"Pasante de Trabajo Social El área de Bienestar social se encarga de brindar atención personalizada al trabajador frente a sus problemas de salud que perjudican en el desarrollo de sus actividades de trabajo, somos un ente mediador entre el jefe y el personal a fin de dar una solución frente al problema que se presente.
+
+Responsabilidades
+Atención personalizada al personal
+Visitas domiciliarias y casos sociales
+Armar expedientes para subsidios
+Control de descansos médicos
+Trámites ante EsSalud y EPS
+Manejo de PDT
+Apoyo en actividades internas Un potencial candidato deberá cumplir los siguientes requisitos:
+ 
+Estudiante de Trabajo Social
+Estudiante de Noveno y Decimo Ciclo
+
+Habilidades
+ 
+Excel Avanzado
+Conocimiento General de Paquete Office
+Ingles Básico
+
+Competencias
+ 
+· Calidad en las decisiones
+· Habilidad de informar
+· Rapidez de aprendizaje
+· Perseverancia
+· Orientación e Resultados","('F', 'P')"
+"Practicante de Costeo, Planeamiento Financiero y Administrativo •	Apoyo en la elaboración de la actualización de costeo de las unidades.
+•	Apoyo en el monitoreo de la ejecución del gasto mensual.
+•	Apoyo en el desarrollo de las políticas de las unidades 
+•	Apoyo en la consolidación de datos y elaboración de reportes.
+•	Apoyo en desarrollo de casos de negocio •	Estudiante de los últimos ciclos de la carrera de Economía, Contabilidad, Administración o Finanzas, perteneciente al tercio o quinto superior de su facultad (requisito indispensable).
+•	Al menos tres meses de experiencia asumiendo una posición similar.
+•	Conocimientos sólidos de Microsoft Office. 
+•	Inglés a nivel avanzado
+•	Excel a nivel avanzado
+•	Disposición para el aprendizaje y capacidad de trabajo en equipo.","('F', 'P')"
+"Reclutamiento Practicante R-P N° 007-2017 Dpto de Supervisión Bancaria - Apoyo en los procedimientos TUPA relacionados a la apertura, cierre o traslado de oficinas y agencias bancarias, constancia de irrecuperabilidad de créditos, entre otros. 
+- Apoyo en la elaboración de informes trimestrales de las empresas. 
+- Actualización del seguimiento de observaciones en el TeamCentral. 
+- Apoyo en análisis ad-hoc realizados sobre temas específicos de las empresas.
+- Apoyo en la elaboración de las presentaciones, cuadros, estadísticas y labores propias del área. 
+- Apoyo en la descarga mensual del RCD para las empresas del área. Requisitos: 
+- Estudiante del noveno o decimo ciclo (9° - 10°) de las carreras de Economía o Administración o Contabilidad o Ingeniería Industrial o Ingeniería de Sistemas. 
+- Conocimientos de Excel y Word a nivel avanzado y Power Point a nivel intermedio. 
+- Conocimiento intermedio del idioma Inglés.
+
+- Competencias: Capacidad para comunicarse efectivamente. Capacidad para aprender. Trabajo en equipo. Creatividad e innovación. Motivación por la calidad.","('F', 'P')"
+"Analista de Procesos y Gestión y desarrollo Humano Elaborar y analizar información relacionada a la gestión de personas en temas como: Presupuesto de Personas, Inversiones y Gastos de Personal, e Indicadores de GDH (Rotación, Selección, Compensaciones, Gestión del Talento, Gremio 94, entre otros) a fin de facilitar el seguimiento a las distintas unidades de GDH e inclusive al Área de Planeamiento y Control Financiero y generar alertas de las principales desviaciones. Este proceso considera seguimiento a las aprobaciones del Comité de Productividad de los excesos (sólo en caso del Presupuesto de Personas, Inversiones y Gastos). Asimismo, se realizan presentaciones periódicas de esta información al Gerente de División y Jefaturas de GDH.
+ Realizar análisis de los indicadores y de la información relacionada a la gestión de personas para compartirla con las Gerencias de GDH y otras unidades del Banco con la finalidad de contribuir a una mejor toma de decisiones. Estos análisis abarcan la revisión de las principales iniciativas implementadas por la División GDH, con la finalidad de cuantificar su impacto y recomendar mejoras.
+ Diseñar y proponer indicadores a las Gerencias de GDH con la finalidad de contribuir a que se realice una mejor medición y seguimiento de su gestión, así como elaborar y compartirles herramientas que permitan que la gestión de indicadores sea más eficiente. Explorar tendencias y buscar mejores prácticas en la gestión de indicadores de recursos humanos con la finalidad de detectar y proponer acciones que contribuyan a la mejora del desempeño.
+Asegurar que los planes estratégicos de las Gerencias de GDH estén alineadas a los objetivos estratégicos de la División GDH y del BCP y que se cumplan en las fechas establecidas. Para ello, planifica y dirige el proceso de elaboración del plan asi como realiza seguimiento al cumplimiento de los acuerdos.
+ Optimizar y mejorar los procesos de GDH: identificando las oportunidades de optimización y/o formalización de procedimientos de los procesos GDH; analizando el proceso GDH con la finalidad de hacerlo más eficiente, simplicarlo y/o automatizarlo. Asimismo, asegurando la identificación de riesgos y definición de controles para los mismos y elaborando y/o actualizando el flujograma para su validación con el Especialista y el Gerente GDH para normarlo.
+Asimismo, debe elaborar los flujos de los procesos críticos de GDH, proponer mejoras y realizar revisiones de los mismos en conjunto con los dueños de cada proceso asegurando la identificación de riesgos y definición de controles para los mismos.
+Optimizar y mejorar los procesos de GDH: identificando las oportunidades de optimización y/o formalización de procedimientos de los procesos GDH; analizando el proceso GDH con la finalidad de hacerlo más eficiente, simplicarlo y/o automatizarlo. Asimismo, asegurando la identificación de riesgos y definición de controles para los mismos y elaborando y/o actualizando el flujograma para su validación con el Especialista y el Gerente GDH para normarlo.
+Asimismo, debe elaborar los flujos de los procesos críticos de GDH, proponer mejoras y realizar revisiones de los mismos en conjunto con los dueños de cada proceso asegurando la identificación de riesgos y definición de controles para los mismos. ","('F', 'P')"
+"Analista Senior de Planeamiento Financiero 1. Elaborar la proyección anual y mensual de los resultados de las categorías CMP (Ebitda Negocio con enfoque en UB) asignadas en coordinación con las diferentes áreas de la compañía.
+2. Proyectar la Venta Neta a nivel detallado, en un equipo multifuncional y analizar las desviaciones real vs proyectado (también mejorar modelos existentes y elaborar modelos de categorías que aún no los tienen).
+3. Identificar mensualmente las principales variaciones de los resultados reales  vs. Proyectado/objetivo (Estado de Ganancias y Pérdidas), liderando o coordinando los equipos de acuerdo al rubro que se analice.
+4. Desarrollar presentaciones de los estados financieros  a los Directores /Gerentes del Negocio.
+5. Colaborar con el desarrollo de las presentaciones de los negocios a Gerencia General de manera trimestral.
+6. Identificar áreas de mejora en el área,  y desarrollar planes de acción (ej procesos de flujo de información, nuevas metodologías de análisis etc.).
+7. Responsable de coordinar con el equipo corporativo y negocio de una(s) línea(s) del P&L cross negocio. Experiencia mínimo 2 años de experiencia laboral en áreas de planeamiento financiero en empresas del sector de consumo masivo de preferencia.
+Conocimientos: Excel Avanzado  (No Macros).","('F', 'P')"
+"Asistente de Banca Empresa -	Ser un Interlocutor con los clientes.
+-	Recepcionar, canalizar y hacer seguimiento a las solicitudes presentadas por los clientes en general.
+-	Atender llamadas telefónicas y/o correos electrónicos.
+-	Evaluar y procesar planillas de descuento de letras.
+-	Reemplazar a los Ejecutivos de Cuenta (por visitas, vacaciones u otros).
+-	Apoyar a los Ejecutivos en solicitudes de tarifas preferenciales y/o cotizaciones.
+-	Evaluación de EEFF y llenado de rating.
+-	Administrar y maximizar la utilización de líneas y cross-selling a los clientes con importante nivel de deuda y sin vinculación.
+-	Apoyar en la confección de reportes de crédito y programas financieros.
+-	Elaborar anexos e información complementaria a las propuestas de crédito.
+-	Armar expediente y/o generar alta en sistema  para  la formalización de operaciones de operaciones de créditos directos  (préstamos comercial, descuento de letras, operaciones de comercio exterior, entre otros) e indirectos (cartas fianza, crédito documentario entre otros) así como el seguimiento de su formalización.
+-	Apoyar a los  Ejecutivos en el armado y correcto archivo  de los files comerciales. Llevar un adecuado control para mantener los formularios actualizados (informe comercial, declaración patrimonial persona jurídica y natural).
+-	Atender  los  requerimientos de información de clientes solicitadas por  unidades internas del Banco. -	Conocimiento y manejo de  Word y PowerPoint a nivel intermedio y Excel a nivel avanzado.
+-	Conocimiento de Estados Financieros.
+-	Conocimiento de Ingles nivel intermedio.
+-	Disponibilidad: movilidad distrital.
+
+EXPERIENCIA:
+Externa: mínimo 1 año en puestos de BANCA en gestión comercial (Producto o Servicios).","('F', 'P')"
+"Asistente de Consultoria Contable Financiera Analizar información financiea relevante en procesos de compra/venta de empresas.
+Asistir al cliente en procesos de conversión e implementación de NIIFs.
+Brindar asesoría y/o apoyo regulatorio sobre cambios contables, procesos de cierre contable y controles involucrados.
+Elaborar diagnósticos que reflejen las diferencias entre el tratamiento contable  actual vs lo estipulada por las NIC y NIIF. Conocimientos técnicos relacionados a temas financieros, valor presente de flujos futuros, determinación de la WACC, tasa de interés efectiva, entre otros.
+Conocimiento de modelos de valorización.
+Conocimientos de implementación de NIIF/NIC.
+Manejo de Inglés a nivel intermedio-avanzado.","('F', 'P')"
+"Ejecutivo Asociado de Precios de Transferencia  - Análisis de modelos económicos (prestación de servicios, compra-venta de acivos, operaciones financieras, etc.)
+- Definición -junto a los Negocios- de las alternativas de pricing a implementar en las relaciones intragrupo.
+- Revisión y evaluación de los esquemas remunerativos intragrupo vigentes (prestación de servicios, compra-venta de acivos, operaciones financieras, etc.)
+- Monitoreo, revisión y levantamiento de sustento de las relaciones económicas en operaciones de gasto intragrupo con no domiciliados.
+- Resolución de consultas intragrupo, así como también de operaciones con empresas domiciliadas desde,hacia o a través de paraísos fiscales.
+- Revisión y validación (V°B°) de contratos intragrupo: Acompañamiento a los Negocios en la formalización de operaciones con partes vinculadas (nuevos acuerdos, regularización de operaciones, adendas, contratos marco, acuerdos de adhesión, etc.)
+- Planeamiento de proyectos especiales: Reestructuración de esquemas de negocio/operaciones y Determinación de valor (activos tangibles e intangibles) que articulan relaciones intragrupo.
+- Análisis de resultados/impacto/sensibilidad de operaciones intragrupo, por Producto, Línea de Negocio y Compañía, a ser presentadas en las DJPT y EPT.
+- Supervisión/Coordinación de propuestas de servicio/proyectos conjuntos, en materia de precios de transferencia, con los asesores externos (KPMG, PwC, Deloitte, EY y B&M)
+- Asesoria técnica en Fiscalizaciones y Procesos, materia de precios de transferencia: Cartas inductivas, Requerimientos especificos, Acuerdos Anticipados de Precios. - Experiencia en la elaboración de análisis, valoraciones y estudios de precios de transferencia por periodo no menor a tres años.
+- Experiencia en la asesoría y atención de consultas fiscales de precios de transferencia.
+- Conocimiento de las normas fiscales de precios de transferencia peruanas y de los Lineamientos de la OCDE, así como del Plan de Iniciativas BEPS. 
+- Conocimientos generales sobre legislación tributaria en el Perú.
+- Capacidad de trabajo en equipo.
+- Capacidad de trabajo bajo presión.
+- Capacidad de comunicación oral y escrita (imprescindible).
+- Dominio avanzado de Microsoft Excel y Power Point.
+- Dominio del idioma inglés (intermedio).","('F', 'P')"
+"Jefe de Administración y Finanzas Presentar reportes mensuales a Gerencia General: Flujo de Caja (Ejecutado y proyectado), EEFF, Cuentas por pagar, carga laboral.
+Asumir la responsabilidad sobre el manejo financiero de la empresa.
+Administrar y mantener la Base de Datos de la empresa.
+Supervisar y controlar el proceso de compras.
+Supervisar al personal bajo su cargo.
+Salir a campo para supervisar la situación de los inmuebles de la empresa.
+Auditar e implementar procesos de mejora en el área de manera continua. Estudios de postgrado asociados a Administracion (deseables mas no excluyentes).
+Obligada experiencia auditando e implementando procesos de mejora en su área.
+Experiencia demostrada (muy deseable más no excluyente) en giros empresariales como: Servicios Generales, Proyectos Inmobiliarios, Agrario, Infraestructura, etc.
+Demostrada experiencia implementando y manejando Bases de Datos (Access u otras).
+Experiencia demostrada interpretando EEFF, Temas Tributarios, Flujo de caja, Temas de RRHH, Planillas, pago a proveedores y otros relacionados a temas administrativos.
+Experiencia demostrada realizando gestiones frente a terceros.
+Conocer e implementar indicadores de gestión.
+Office a nivel usuario - avanzado.","('F', 'P')"
+"Jefe de Pricing & Revenue Assurance Las funciones que desempeñará en esta colocación son:
+
+- Elaborar el Plan de Trabajo Anual de Revenue Assurance para SBP & CSF y liderar el cumplimiento del mismo.
+- Liderar el seguimiento a la implementación de medidas de Revenue Assurance para SBP & CSF.
+- Validar las propuestas de cambios de tarifas de los productos activos Retail presentadas por las áreas de Productos a través del Formato “Propuesta de Tarifas”
+- Participar en la definición de iniciativas de Pricing para los productos Retail.
+- Identificar, analizar, proponer y sustentar modificaciones en  la lógica de fijación de tarifas de cada producto y parámetros para la gestión de excepciones de tasa.
+- Supervisar la implementación de reglas estandarizas de fijación de tasas y excepciones para los productos Retail.
+- Administrar las Herramientas de Gestión de Pricing asegurando que funcionen conforme a las definiciones establecidas.
+- Validar y canalizar con Sistemas todos los requerimientos de desarrollos y ajustes a las herramientas
+- Soportar en la determinación de la rentabilidad proyectada de cada operación usando las variables TEA de desembolso, tasa de transferencia, costos operativos, PCL y Capital Asignado.
+- Soportar en la determinación de los ROA y ROE target para los productos, subproductos y segmentos así como los niveles mínimos de rentabilidad. 
+- Asegurar la definición, elaboración y emisión de los reportes de gestión de precios y excepciones para los productos Retail.
+- Identificar oportunidades en base análisis detallados y proponer acciones que impacten en la mejora de la Gestión del Pricing y en el cumplimiento de los objetivos de Rentabilidad de los Productos y Segmentos (herramientas, metodologías, procesos, planes de incentivos, etc).
+- Realizar las investigaciones de buenas prácticas en otras instituciones financieras, locales o internacionales, con el fin de identificar tendencias y operativa de los productos y servicios del mercado.
+- Asistir a la Sub Gerencia de Pricing Command Center  y Gerencia de Financial, Plannig & Analysis en los planes de trabajo y estructuración de los proyectos y procesos del área. - Bachiller o titulado en las carreras de Administración, Ingeniería Industrial, Economía, Ingeniería de Sistemas, Contabilidad  o afines.
+- Estudios de Postgrado en Administración o Finanzas o cursos de especialización  en temas relacionados al giro del negocio: Banca, Mercado de Capitales, Finanzas, Costos, Proyectos.
+- 3 años de experiencia en posiciones relacionadas a Control de Gestión, Planeamiento, Proyectos de Organización ó Sistemas, Servicios/Productos Bancarios, etc.
+- Manejo de Office (Excel, Word, Power Point) a nivel Intermedio.
+- Dominio del idioma inglés a nivel Avanzado.","('F', 'P')"
+"Practicante en Consultoría Financiera Apoyo a consultores en desarrollo de temas financieros.
+Valorización de empresas e intangibles.
+Análisis de Estados Financieros.
+Apoyo en sistemas de medición de Value Based Management. Disponibilidad Inmediata.
+Conocimiento de Visual Basic / Profundo conocimiento de Word, Excel y Power Point.
+Experiencia en finanzas corporativas, consultoría y valorización de empresas es deseable.
+Dominio de conceptos de finanzas y estados financieros.","('F', 'P')"
+"Supervisor Comercial de Proyectos •	Trabajo directo con los vendedores, realizando la supervisión directa para el logro de los objetivos.
+•	 90% de trabajo en el campo.	
+•	Realizar planes de trabajo para sus vendedores con el fin de alcanzar las ventas trazadas por la empresa.	
+•	Realizar la coordinación constante con el área de Marketing y el de Obras, para las observaciones pertinentes en lo referente a lo que se ofrece y como se ofrece, para el logro de los objetivos de las ventas de los proyectos.
+•	 Ejecutar reportes de los trabajos realizados, para ver los márgenes de cumplimiento, para hacer el seguimiento correspondiente en lo observado.
+•	Personas a cargo: 8 Personas.
+•	Relaciones Internas con los Vendedores, Área de Marketing, Área de Obra, entre otros. Y relaciones externas con Proveedores y clientes. •	Bachiller en Ing. Industrial, Administración o carreras afines.
+•	Conocimientos requeridos: Excel y Power Point a nivel intermedio.
+•	Experiencia mínima de 3 años como Supervisor o Jefe  de Ventas.
+•	Experiencia de preferencia del rubro inmobiliario.
+•	Capacidad de trabajar con desplazamiento constante a las Sedes asignadas para visitar y supervisar los proyectos a su cargo en Lima Este y Norte Chico.","('F', 'P')"
+"Analista de Compras Solicitar y evaluar cotizaciones de proveedores.
+Seleccionar al proveedor que presente la mejor oferta considerando la calidad del producto.
+Ejecutar el proceso de negociación para fines de costo-beneficio de la empresa.
+Negociar con proveedores precio, tiempos de entrega, condiciones de compra y pago.
+Elaborar órdenes de compras y solicitando las aprobaciones respectivas.
+Coordinar entrega de materiales según planificaciones.
+Enviar la orden de compra al proveedor y haciendo seguimiento.
+Gestionar revisión y entrega de facturas de compras y servicios.
+Analizar y desarrollando nuevos proveedores, y seleccionando al que ofrezca mejores opciones.
+Realizar la preselección de los posibles nuevos proveedores.
+Establecer contacto con proveedores, a fin de solicitar cotizaciones requeridas para el proceso de compras y servicios.
+Suministrar con los mejores insumos y servicios  todos los procesos de compras. Mínima de 2 años en cargos similares ejecutando tareas relacionadas al área de compras.
+Conocimientos de variables económicas: inflación, precios locales y externos
+Bilingüe: español – inglés.
+Manejo de herramientas office a nivel avanzado.","('F', 'P')"
+"Analista de Costos - Implementar programas de reducción de costos.
+- Lograr eficiencias en los procesos y contribuir a la mejora continua.
+- Control del cumplimiento de costos de producción presupuestado.
+- Obtener una mínima desviación entre la utilidad real y la proyectada.
+. Análisis de desviaciones de costo de producción y de venta.
+- Elaborar plan de acción que minimice las causas de un sobre costo.
+- Elaboración del presupuesto anual de operaciones  para controlar el cumplimiento de los costos.
+- Operación de modelos de proyección de costos.
+- Proyección de costos de venta para los estados financieros.
+- Elaboración de reportes diarios de indicadores y costos.
+- Determinar desviaciones que puedan impactar en el presupuesto. ","('F', 'P')"
+"Analista de relaciones comunitarias sector minero • Gestionar  y obtener, acuerdos convenios, permisos sociales  y ambientales de las áreas de interés de exploración  minera, ya sea en  terrenos privados, del estado  o territorios  comunales. 
+• Conocimiento  y manejo de la legislación social y ambiental aplicable  en exploración  minera. 
+• Monitorear  y fiscalizar  los trabajos realizados  por empresas contratistas  de VALE, con la  finalidad de verificar el cumplimiento de la normativa  ambiental vigente. Realizar revisiones  y controles  en sus procesos de gestión ambiental  y comunitaria. 
+• Proponer  y poner en marcha  estrategias de intervención  social  en áreas con dificultades  de trabajo. 
+• Monitorear  procesos  de evaluación  arqueológica  ejecutados durante las líneas base socio- ambientales.
+• Elaborar  mapas  de actores  involucrados  en nuestros proyectos  y planos  con respecto a la delimitación de terrenos y posibilidad de puntos de agua. 
+• Gestionar la atención de quejas, reclamos y mitigar los impactos.
+• Identificar, planear  y ejecutar proyectos  sociales con las comunidades de influencia. 
+• Monitorear ,permisos procesos  ambientales  sectoriales, declaraciones de impacto  ambiental , estudios de impacto ambiental  y todos aquellos  que trámites  ambientales solicitados, por el ministerio  de energía y minas  u otros organismos  gubernamentales (MEM,MAM,DGAMM)
+• Realizar  charlas informativas  a las comunidades   involucradas a los proyectos de exploración. 
+• Elaborar e implementar  los instrumentos  de gestión ambiental  y social (plan de manejo ambiental, plan de  cierre ambiental, plan de manejo social, plan de relaciones comunitarias, plan de comunicaciones)
+• Apoyar al jefe de proyecto  de operación, en el aspecto social y ambiental  antes durante  y después  de la ejecución de actividades. 
+• Hacer seguimiento a las estrategias  sociales  de los planes de manejo social  y ambiental  para el  cumplimiento  de la normativa respectiva. 
+• Desarrollar las tareas que le sean asignadas  de acuerdo con la naturaleza del cargo. •Maestría o Diplomados en Relaciones Comunitarias.
+•Conocimiento de inglés a Nivel Intermedio y quechua a nivel básico.
+•Microsoft Office a nivel Avanzado y deseable conocimiento en AUTOCAD y ARGIS.
+•Conocimiento del proceso de evaluación arqueológica, lectura de planos, conocimiento de las leyes de SSOMA.
+•Experiencia de 6 a 10 años como mínimo viendo normativa legal en proyectos de exploración minera como Analista, Coordinador, Líder de Proyectos, Supervisor, Gestor de Proyectos o similares.
+•Disponibilidad para viajar al interior del país en régimen laboral de 20 x 10.","('F', 'P')"
+"Analista Sénior de Finanzas Elaboración de las proyecciones de los estados financieros.
+Encargado del diseño, evaluación y análisis del modelo financiero.
+Elaboración del reporte de ratios financieros y covenants.
+Apoyo en la elaboración del reporte trimestral(español e ingles) presentado a la SMV, así como de la traducción de los EEFF presentados al NY MELLOW.
+Registrar las operaciones en el sistema SAP.
+Revisión de los pagos a proveedores.
+Negociaciones con bancos.
+Presentación mensual al directorio(reporte financiero).
+Control y monitoreo del vencimiento y programación de pago de letras, factoring, leasing, cuotas, deuda estructural, capital de trabajo, derivados para el fondeo de las cuentas bancarias. Conocimiento de costeo y tributación.
+Indispensable experiencia realizando proyecciones de estados financieros.","('F', 'P')"
+"Analyst As an Analyst in I-DEV’s Latin America regional headquarters, you will:
+• Play a key support function for the Latin America Team.
+• Work closely with Associate Fellows and Senior Associates to conduct research, compile presentations and develop charts.
+• Review and input financial data for financial models and investment memos.
+• Conduct research for I-DEV reports, across a range of sectors.
+• Maintain I-DEV databases, by aggregating and entering data from I-DEV teams on funds, notes from conferences, etc.
+• Translate documents and check for proper English. At I-DEV, we seek to hire and train the next emerging markets and global leaders focused on high-impact business solutions, and to share critical insights developed through our work. We seek world travelers, adventurers and game changers who believe anything is possible and that we can make it happen. Our teams are lean, yet not afraid to go above and beyond or get our hands dirty to uncover the best solutions for our clients.
+Core qualifications for Analysts:
+• Minimum of 1 year experience in management consulting and/or investment for a leading global firm.
+• Comfort working independently and in an entrepreneurial, start up environment.
+• Proficient in financial modeling and cost/benefit analysis; Strong quantitative skills;
+familiar with company evaluation and valuation
+• Strong critical thinking skills, and ability to think out-of-the-box to develop innovative solutions; structure problems logically and then design and implement solutions that focus on the core issues.
+• Strong organizational skills; does not have to be asked twice to complete a task and is comfortable asking for help if unclear about how best to approach developing a solution.
+• Strong history of team collaboration and effective internal/external communications.
+• BA, BS or equivalent undergraduate degree (ideally, in finance or business).
+• In progress towards a graduate degree in finance or business, and CFA or other certifications a plus.
+• SPANISH FLUENCY; Intermediate to high English comprehension (written, verbal).
+• Strong academic record.
+• Interested in growing with I-DEV over the long-term, and to commit to at least 2 years with the company.
+You may be a perfect fit, if these also describe you...
+• Independent, proactive and comfortable asking the hard questions.
+• Creative in identifying cost-effective solutions to any challenge.
+• Adventurous, open-minded and ready to learn.
+• Humble in collaboration and bold in ideas and brainstorms because you believe nothing is impossible, and understand that partnerships and buy-in are often critical.
+• Passionate about problem solving and emerging markets development.
+• Believe that businesses- social enterprise or not- can create powerful change in emerging markets, and that long-term financial stability and growth of any business is a critical first step to creating meaningful social and environmental impact.","('F', 'P')"
+"Consultor de Desarrollo de Nuevos Productos Dimensiona e investiga mercados, identificando actores, canales de distribuciones y comercialización desde las fuentes de proveedurías hasta los clientes finales.
+Analiza y estructura posibles oportunidades de mercados, proponiendo estrategias comerciales y distributivas.
+Desarrollando planes de trabajo en conjunto con clientes que incluyen futuras oportunidades de incremento de líneas de productos, soluciones, servicios.
+Arma documentación y Business Plan para potencial planes de inversiones
+Conversar más con el cliente para fortalecer relaciones comerciales.
+Elaborar informes estadísticos del desarrollo comercial realizado en el sector. Experiencia deseable de 3 años en posiciones similares.
+Conocimientos de gestión y técnicas de ventas.
+Conocimiento en investigación y desarrollo de mercados.","('F', 'P')"
+"Jefe de Planeamiento Estratégico y Evaluación de Proyectos. - Liderar la evaluación financiera de proyectos en cada una de las unidades de negocio y áreas de soporte de la compañía:  
+    - Evaluación de oportunidades de generación de ingresos.
+    -Evaluación de mejoras operativas en las unidades de negocio. 
+    -Evaluación de proyectos en unidades de producción y logística. 
+- Soporte en el proceso de planeamiento estratégico. 
+- Liderar el seguimiento y control de la ejecución de las estrategias e iniciativas de mejora operativa. 
+- Entre otras responsabilidades propias del cargo. - Formación académica: Profesional en Economía, Administración, Ingeniería Industrial o carreras afines. 
+- Experiencia mínima: De preferencia, cuatro años en posiciones afines realizando áreas de Planeamiento Financiero y/o Estratégico o empresa de Consultoría de Negocios.
+- Conocimientos adicionales: Dominio de evaluación económica/financiera de proyectos. Manejo avanzado del idioma inglés y el entorno de MS Office (Excel y Power Point) De preferencia, conocimiento de Visual Basic y SAP R3 (No indispensable). 
+- Habilidades y competencias: Pensamiento Analítico, Orientación a la Calidad, Planificación, Orientación a Objetivos, Proactividad y Solución de Problemas.
+- Disponibilidad para laborar Barranco/Surco. 
+
+Interesados(as) favor de enviar su hoja de vida actualizada a seleccion@ngr.com.pe indicando en el asunto el código: J-PLAN.","('F', 'P')"
+"Jefe de Productos Financieros Activos Realizar el reporte diario de las ventas de todos los productos activos.
+Realizar los informes de medición de campañas comerciales, gestión de pilotos  y ratios de productividad por canal.
+Realizar el análisis de la competencia utilizando fuentes internas y externas, que permita encontrar oportunidad de nuevos negocios.
+Desarrollo de análisis adhoc enfocados en disminuir las provisiones, gastos y en maximizar la rentabilidad de los productos del activo del banco.
+Gestionar  la relación con las áreas de Business Intelligence (BI), Riesgo Crediticio, Sistemas y Finanzas; estableciendo una agenda y acciones comerciales compartidas.
+Gestionar proyectos e iniciativas comerciales de eficiencia comercial.
+Preparar presentaciones para la Alta Dirección sobre los avances de los productos y los retos comerciales que se presentan. Experiencia mínima de 04 años como Analista, Analista Senior ó de lo contrario 02 años en cargos de Jefatura en empresas del rubro Banca, Entidades Financieras, Consumo Masivo, Telecomunicaciones, Retail ó Consultoría.
+Contar con Especialización, Diplomado y/o Maestría en Finanzas, Producto, Marketing ó relacionados a estos temas.
+
+Conocimientos Técnicos
+Conocimientos de Finanzas / Matemática Financiera.
+Manejo de SQL.
+Dominio de Excel a nivel avanzado.
+Conocimientos de Marketing Estratégico.
+
+Competencias
+Alta Capacidad de Planificación y Organización.
+Capacidad para relacionarse a todo nivel.
+Impacto e Influencia.
+Negociación Efectiva.
+Liderazgo.
+Alta Capacidad de Análisis y Síntesis.","('F', 'P')"
+"Miembro del Consejo Directivo de OSIPTEL El Consejo Directivo es el órgano de dirección máximo de OSIPTEL.  
+Funciones de OSIPTEL:
+Función reguladora: comprende la facultad de fijar las tarifas de los servicios bajo su ámbito.
+Función Normativa: comprende la facultad de dictar en el ámbito y en materia de sus respectivas competencias, los reglamentos, normas que regulen los procedimientos a su cargo, otras de carácter general y mandatos u otras normas de carácter particular referidas a intereses, obligaciones o derechos de las entidades o actividades supervisadas o de sus usuarios.
+Comprende, a su vez, la facultad de tipificar las infracciones por incumplimiento de obligaciones establecidas por normas legales, normas técnicas y aquellas derivadas de los contratos de concesión, bajo su ámbito, así como por el incumplimiento de las disposiciones reguladoras y normativas dictadas por ellos mismos. Asimismo, aprobarán su propia Escala de Sanciones dentro de los límites máximos establecidos mediante decreto supremo refrendado por el Presidente del Consejo de Ministros y el Ministro de Transportes y Comunicaciones. REQUISITOS GENERALES  PARA POSTULAR:
+
+a)	Ser profesional con no menos de diez (10) años de ejercicio.
+
+b)	Contar con reconocida solvencia e idoneidad profesional. Este requisito se acreditará demostrando:
+-	No menos de tres (3) años de experiencia en el desempeño de cargos de dirección, entendiéndose por tales, aquellos desempeñados en la Alta Dirección de empresas u organismos del Estado y/o empresas privadas; o
+-	No menos de cinco (5) años de experiencia en materias que configuran el objeto de competencia de OSIPTEL.
+
+c)	Acreditar, por lo menos, estudios de maestría concluidos en materias relacionadas a la actividad objeto de competencia de OSIPTEL. En el caso de los estudios de maestría concluidos y que hayan sido realizados en el extranjero, éstos deberán estar reconocidos, revalidados, convalidados o registrados ante la Superintendencia Nacional de Educación Superior Universitaria - SUNEDU, las universidades, o ante la Autoridad Nacional del Servicio Civil - SERVIR, según corresponda.
+
+Las maestrías que serán consideradas para efectos del procedimiento podrán estar referidas a materia legal, regulatoria, de administración, económica, o materia técnica que se encuentre relacionada a las actividades y funciones de OSIPTEL.
+
+d)	No estar incursos en ninguno de los supuestos de incompatibilidades establecidos en el artículo 8 de la Ley Nº 27332, en concordancia con lo señalado en el artículo 13 del Decreto Supremo N° 103-2012-PCM.
+
+DOCUMENTACIÓN A PRESENTAR:
+
+Las personas que cumplan con los requisitos señalados podrán presentar su postulación, para lo cual deberán remitir la siguiente documentación:
+
+-	Currículum Vitae documentado, debiendo incluir copia simple de los documentos que acrediten la formación académica y la experiencia profesional.
+-	Declaración Jurada en la que se indique cumplir con los requisitos exigidos conforme a la Ley Nº 27332; no tener incompatibilidades para ser designado como miembro del Consejo Directivo y declarar la veracidad de la información contenida en su Currículum Vitae. (Anexo 1)
+-	Formulario de postulación debidamente completado. (Anexo 2)
+-	Declaración de Integridad (Anexo 3)
+
+Los formatos denominados Anexo 1, Anexo 2 y Anexo 3 forman parte del Decreto Supremo N° 103-2012-PCM y se podrán obtener en la página web de la Presidencia del Consejo de Ministros (www.pcm.gob.pe) y de la página web de OSIPTEL (www.osiptel.gob.pe).","('F', 'P')"
+"Subgerente de análisis de tesoreria Elaboración del presupuesto de las Mesas de Trading y Clientes a nivel Banca y Tesorería.
+Generación de Reportes de Gestión, Indicadores de productividad.
+Seguimiento de Campañas, Participación de Mercado.
+Creación de Herramientas de Gestión y Administración de la Base de Datos de Tesorería.
+Verifica la calidad de la información, realiza seguimiento y evalúa el desempeño de las personas a su cargo. Experiencia en temas de planeamiento financiero (Indispensable) mínimo de 2 años.
+Experiencia en riesgos de mercado (Deseable).
+Manejo de Excel nivel Intermedio.
+Ingles  Intermedio.
+Deseable certificación CFA.","('F', 'P')"
+"Suscriptor - Evaluar los riesgos y autorización según limite de autoridad y política de suscripción.
+- Representar al área ante instancias internas de la compañía y participar en el comité de Suscripción de RRGG.
+- Evaluar y realizar la propuesta de renovaciones anticipadas de riesgos restringidos.
+- Dar soporte a las Áreas Comercial y de Formalización en temas de suscripción de RRGG. 
+- Absolver consultas técnicas de RRGG y evaluar casos fuera de la política de suscripción según nivel que corresponde.
+- Elaborar cotizaciones básicas de Ramos Técnicos.
+- Evaluar factores claves de riesgo por solicitud nueva, pólizas antes de la renovación.
+- Elaborar propuestas de cotización. - Experiencia de 2 años en el área de Análisis de Riesgos, Rentabilidad, Siniestros y/o Suscripción.","('F', 'P')"
+"Trade Marketing Beverages Specialist Desarrollar las estrategias de la categoría a su cargo, definiendo canales prioritarios y generando una plataforma de negocios a largo plazo que permita un crecimiento sostenido a través de una adecuada ejecución en el PDV.
+Realizar análisis del negocio, la categoría y el comprador, incluyendo análisis de desempeño de la categoría y shopper - análisis de coberturas, surtido, precios, descuentos, impactos promocionales, etc.
+Desarrollar insights para las categorías a su cargo (p.e., tendencias de la categoría, hábitos de compra del consumidor, etc.).
+Definir los lineamientos del marketing mix (Precio, Producto, Plaza y Promoción) a seguir en el canal de ventas.
+Identificar oportunidades de crecimiento de la categoría en los canales de venta desarrollando, en forma anticipada, propuestas de acción tangibles que agreguen valor al negocio. Asimismo, llevar a cabo acciones tácticas que permitan eliminar posibles gaps en el mes a mes.
+Liderar el proceso MBP (construcción y revisión de la cifra sell out) proponiendo y consensuando los objetivos de crecimiento de la categoría en base a los planes revisados en el ICP (Planes de Marca, planes de categoría canal y planes de ruta). Experiencia mínima de 3 a 5 años combinada en el área de Ventas y planificación comercial.
+Experiencia en el campo del retail y/o consumo masivo.
+Manejo de Office a nivel Avanzado.","('F', 'P')"
+"Analista Comercial Responsable de medir, interpretar y preparar reportes de los KPIs a todo nivel (país, producto, canal, etc) en presentaciones efectivas para la Gerencia Comercial. Tener claro la lectura de negocio (mercado, producto, lane, canales, etc) a cierre de mes  y, así mismo; proveer sugerencias y conclusiones de los mismos.
+Responsable de calcular las comisiones e incentivos de todos los canales de venta, a su vez de mantener actualizada la política de comisiones local y que cumpla con los estándares de la Oficina Regional.
+Responsable del proceso de establecimiento de objetivos mensuales (metodología, cálculo y control) para la fuerza de venta.
+Responsable de administrar el CRM (COMET), de la calidad de la data (DQS), de brindar soporte a la fuerza de ventas y de proveer conclusiones ante cualquier análisis solicitado (campañas regionales).
+Responsable de llevar a cabo el proceso de Re-allocation de clientes según directivas de la Oficina Regional.
+Identificar oportunidades de mejora y realizar otros reportes o tareas solicitadas por el Supervisor o la Gerencia Comercial.
+
+Analytics & Stretegic Alerts
+
+Responsable de gestionar fuentes externas (SUNAT, Adex Datatrade, etc) para proveer conclusiones y sugerencias del comportamiento del mercado y la industria (Market Share, estacionalidad de industrias).
+Implementar inteligencia de negocios para sugerir estrategias comerciales.
+Generar y liderar nuevas fuentes de  negocio a trabajar con el equipo comercial. Así mismo, generar bases de datos para proveer a COMET.
+Responsable de optimizar el manejo de información (utilización de los reportes regionales Bricks, Cognos). 
+Responsable de realizar el control diario de la venta del mes en curso y de realizar proyecciones (forecast) de cierre de mes. Interpretar las causas raíces cuando una variable no se encuentre en el control esperado. 
+Realización del Annual Operations Plan (budget de venta) según los lineamientos estratégicos definidos con Gerencia  General y con la Gerencia Comercial.
+
+Process Adherence
+Cumplir con lo establecido en los programas, manuales, procedimientos e instrucciones que le apliquen, dentro del GSP.
+Desarrollar y fomentar los valores corporativos (compliance) de DHL. Experiencia de al menos 1 año en áreas Comerciales o Business Intelligence. 
+Sólidos conocimientos estadísticos.
+Nivel de inglés avanzado en lectura, escritura y conversación.
+Conocimiento en Microsoft Office (Excel y Power Point) a nivel avanzado. 
+Conocimiento en manejo de bases de datos en Access a nivel avanzado. 
+Conocimiento en manejo de información en SQL.","('F', 'P')"
+"Analista de Desarrollo de Proyectos Objetivo de la posición:
+Participar en la evaluación, desarrollo, análisis e implementación de proyectos y oportunidades de negocios, nuevos y actuales. Gestión del conocimiento de mercados y clientes. Seguimiento y elaboración del planeamiento financiero y estratégico de la gerencia. Soportar en la elaboración de reportes de información para la empresa y autoridades que lo requieran.
+
+- Elaborar reportes de gestión para la Gerencia Comercial relacionados a clientes, mercado, márgenes, competitividad, etc. 
+- Evaluar la pre factibilidad y factibilidad de nuevos negocios.
+Desarrollar e implementar las oportunidades de nuevos negocios.
+- Seguimiento y control a la rentabilidad de los negocios actuales y nuevos negocios.
+- Elaboración y seguimiento a la planeación estratégica comercial. Seguimiento al plan de negocio e indicadores por negocio. 
+- Estimar las necesidades futuras de suministro y transporte de hidrocarburos. 
+Seguimiento a los consumos y a las capacidades contratadas actuales.
+- Proponer a la gerencia la optimización de procesos críticos, analizando continuamente las necesidades y el entorno del mercado para recomendar cambios.
+- Apoyo y seguimiento en la definición del plan quincenal.
+- Velar por su seguridad y salud a cargo, así como cumplir con la política del SIG y normas en materia de seguridad y salud. - Bachiller universitario en Economía, Administración, Contabilidad, Ing. Industrial o afines (perfil financiero). 
+- Experiencia de 2 años en evaluación de proyectos financieros o experiencia de 2 años en el desarrollo de proyectos de inversión de nuevos negocios en el rubro energía (muy deseable) y servicios.
+- Manejo de indicadores.
+- Conocimiento de SAP – Módulo CO (Deseable). 
+- Entorno Windows – Office – Avanzado.
+- Inglés – Intermedio.
+
+Competencias: 
+-	Orientación a Resultados.
+-	Estrategia y planeación.
+-	Creatividad.
+-	Iniciativa y Proactividad.
+-	Análisis.
+-	Negociación.
+-	Trabajo en equipo.
+-	Comunicación a todo nivel.","('F', 'P')"
+"Analista de riesgo crediticio Realizar el monitoreo de los principales indicadores de riesgo crediticio de la cartera de inversiones, con los cuales se elaboraran reportes semanales, mensuales y trimestrales, para las distintas áreas de finanzas.
+Preparar análisis de riesgo crediticio para las distintas inversiones que planee realizar la compañía, lo cual incluye análisis de ratios y EEFF, así como, proyecciones e identificación de riesgos. Tener experiencia en áreas de finanzas o con intereses en aéreas de finanzas, riesgos y/o inversiones.
+Manejar MS Office a nivel avanzando (conocimiento de macros) y Bloomberg a nivel básico.","('F', 'P')"
+"Consultor Senior de Consultoría de Negocios Análisis estructurado de las necesidades específicas de las empresas y desarrollo de sus soluciones. 
+
+Seguimiento de la relación con el cliente (pares del equipo). 
+
+Gestión y mentoring de miembros junior del equipo. 
+
+Comunicación, oral y escrita, de resultados al cliente por medio de presentaciones. 
+
+Análisis cuantitativo de grandes bases de información, primaria y secundaria.
+ 
+Conducción de entrevistas con principales stakeholders. De 2 a 3 años de experiencia laboral. 
+
+De preferencia en áreas de estrategia de negocios, comercial, suply chain, marketing, CRM.
+
+Con interés o experiencia en consultoría, estrategia de negocios, planeamiento estratégico, funciones comerciales, operativas o logísticas (de preferencia en multinacionales).","('F', 'P')"
+"Jefe de Recursos Humanos - Business Partner Entender perfectamente el negocio y el impacto que tiene en las personas.
+Entender la dinámica del mercado, de forma que sea capaz de anticiparse a los perfiles que serán necesarios a corto plazo e incorporarlos en la dinámica empresa.
+Gestionar las solicitudes de puestos nuevos.
+Anticiparse de forma proactiva a las necesidades de los colaboradores en términos de formación y desarrollo de carrera.
+Conocer en profundidad a todas las personas que gestiona, teniendo identificadas sus competencias, habilidades y como éstas pueden aportar a la empresa
+Identificar y desarrollar a las personas de alto potencial, procurando y facilitando el que puedan desarrollarse  dentro de la organización.
+Gestionar los incrementos de sueldo ante la Gerencia de Compensaciones.
+Diseñar, ejecutar y monitorear la encuesta de clima laboral, determinando las mejoras a ejecutar en base a los resultados de la  misma.
+Realizar y monitorear las evaluaciones de desempeño de cada área, teniendo especial cuidado en dar un correcto y oportuno feedback al personal evaluado.
+Coordinar con las  áreas de RH corporativas  para trasladar las necesidades de sus clientes internos  y anticiparse a cualquier problema  antes de que suceda.
+Trasladar las necesidades de los empleados a la gerencia y viceversa.  Hacer que los objetivos de la empresa formen parte del día a día de los empleados y que los directivos entiendan y gestionen las necesidades e inquietudes de éstos.
+Actuar como coach de ambas partes cuando sea necesario, asesorando, aconsejando e influyendo.
+Ayudar a que el conocimiento necesario se extienda a lo largo de toda la Organización de la forma más rápida y constante posible.
+Supervisar la elaboración de planillas
+Monitorear las renovaciones de contrato y del rol anual de vacaciones
+Estar en constante actualización de las leyes laborales.
+Gestionar los recursos para orientar a la empresa hacia el Great Place to Work
+Estar en contacto permanente con todos los demás HRBP para lograr las máximas sinergias entre los distintos colectivos.
+Ejecutar los proyectos relacionados al área de gestión humana, en coordinación con las áreas involucradas. Profesional con por lo menos 3 años de experiencia en posiciones afines, en empresas idealmente de servicios, con población mayor a 500 colaboradores.
+Idealmente con estudios de Post Grado en Gestión de Personas
+Experiencia y conocimiento de los diferentes procesos de Recursos Humanos, con un claro enfoque hacia el desarrollo del talento.
+Conocimiento de compensaciones, planillas y legislación laboral.
+Manejo de Office  a nivel usuario.
+Disponibilidad para viajar a provincias.","('F', 'P')"
+"Practicante de Administración de Ventas - Apoyo en la elaboración de cotizaciones.
+- Apoyo en la administración de ordenes de compra recibidas.
+- Apoyo en la generación y procesamiento de información estadística del área de ventas. - Deseable conocimiento del sector minero. 
+- Profesión: Administración, Economía, Ing Industrial o carreras afines.
+- Disponibilidad para realizar prácticas profesionales.","('F', 'P')"
+"Practicante de Control de Gestión y Planeamiento Financiero Misión del puesto:
+Dar soporte al área de Planeamiento financiero de Ventas en las funciones de Control de Gestión de presupuesto administrativo de ventas procesos para el negocio de Consumo Masivo Perú. 
+Entre ellos: Análisis de gastos reales administrativos de venta, análisis de proyección de gastos, revisiones de registros por cuenta y Centro de costo. 
+La misión es ser cada vez más ágiles y eficientes en el análisis por medio de la optimización de las herramientas y su fácil análisis.
+
+Funciones:
+Crear / Actualizar herramientas nuevas de análisis de resultados.
+Actualizar los reportes de gastos y preparar las presentaciones a los Directores y Gerentes responsables.
+Validar que la información de los gastos sea la adecuada según los lineamientos del negocio.
+Generar diversos reportes de análisis financiero y de resultados económicos. −Conocimientos Técnicos: Excel avanzado, macros, manejo de bases de datos, Access (no indispensable).
+
+−Experiencia Laboral: no es requisito.
+
+−Competencias: Analítico y con foco en el detalle, Orientado a resultados, Proactivo y Responsable.
+
+−Habilidades: Trabajo en equipo, Análisis numérico, Capacidad de síntesis y capacidad de Interrelación Personal a todo nivel.","('F', 'P')"
+"Practicante de Tarjetas de Crédito (Retail) Coordinar con los Retail del Grupo Falabella (Saga Falabella, Tottus, Sodimac y Maestro) la implementación de campañas segmentadas.
+Realizar el análisis así como la elaboración de reporte de resultados de campañas.
+Elaboración de Presentaciones.
+Apoyar en el diseño e implementación de nuevos procesos.
+Coordinar con publicidad la elaboración de piezas de comunicación. Experiencia:
+Mínima de 06 meses en el área de producto, Comercial, CRM ó Marketing. (Obligatorio).
+
+Conocimientos Técnicos:
+Manejo de Excel a nivel avanzado.
+Manejo de Base de Datos.
+Conocimiento del sistema Business Objects (Deseable).","('F', 'P')"
+"Practicante de Transfer Pricing Ejecutar el servicio de estudio de precios de transferencia para los clientes 
+de la Firma.
+Aplicar los conceptos económicos y financieros correctamente en el servicio 
+brindado.
+Investigar, recabar y documentar la información relevante al servicio 
+brindado al cliente.
+Presentar la información correctamente, de manera ordenada y sintetizada, 
+habiéndola revisado previamente.
+Reportar sus avances continuamente y en las reuniones de seguimiento. Experiencia en el área de estudio de precios de transferencia 
+(deseable).
+Haber trabajado o realizado prácticas en el área financiera o de 
+estudios económicos.
+Experiencia como Practicante y/o Auxiliar (indispensable).","('F', 'P')"
+"Analista de Estudios Cuantitativos 1. Procesamiento y análisis de información secundaria de distintas bases de datos socioeconómicas del Perú (Censos, ENAHO, ESCALE, entre otras).
+2. Revisión de literatura teórica y de evidencia empírica relacionada al proyecto.
+3. Análisis de información cuantitativa.
+4. Elaboración de informes, velando por calidad en términos de forma y contenido.
+5. Trabajo coordinado con analistas y miembros del equipo de consultoría socioeconómica. Contar al menos con 1 año de experiencia profesional en el manejo de bases de datos de dominio público.
+En manejo de base de datos utilizando Stata (excluyente).
+Buen dominio de paquetes informáticos tales como Word, Excel y Power Point.
+Manejo de Stata a nivel avanzado.
+Dominio del idioma inglés a nivel intermedio-avanzado.","('F', 'P')"
+"Analista Presupuestos y Proyecciones Senior Las funciones que desempeñará en esta colocación son:
+
+- Coordinar, consolidar y analizar el Presupuesto del Banco vista local y Toronto de las Bancas y Productos Retail.
+- Participar en los procesos de automatización de todos los procesos críticos del Plan y Proyecciones periódicas de la vista local y Toronto.
+- Realizar proyecciones mensuales, trimestrales y/o anuales a requerimiento de Toronto (PreQ y Forecast) en los plazos establecidos, asegurando la consistencia de cifras (análisis).
+- Mantener relaciones estratégicas con los representantes de los Segmentos/Banca/Producto,  IB Finance,  Contabilidad, Control de Gestión de Subsidiarias, Control de Gestión Financiera, empresas adquiridas por el Grupo, entre otras, a fin de mejorar la precisión en las estimaciones.
+- Análisis y seguimiento de nuevos requerimientos de control de cifras de Toronto (Wealth Management, Insurance, IBX) y otras empresas adquiridas por el grupo.
+- Asegurar la razonabilidad de los mapeos de la información financiera proyectada y real de las vistas Local versus Toronto. 
+- Control, Análisis y Seguimiento de Partidas Intragrupales de SBP, Subsidiarias y AFP, asegurando los resultados reales del Grupo.
+- Participar en la incorporación de nuevas entidades adquiridas bajo responsabilidad de SBP conociendo sus procesos críticos y cifras de importancia.
+- Asegurar la consistencia de los GAAP, Fair Value y Business Line Adjustments, logrando un mejor entendimiento de los resultados del Grupo vista Toronto. El perfil para este puesto requiere:
+- Bachiller universitario de las carreras de Economía, Administración, Ingeniería Industrial o carreras afines.
+- Experiencia mínima de 3 a 4 años como Analista de Finanzas, Control de Gestión, Planeamiento Comercial, Planeamiento Estratégico en empresas del sistema financiero /bancario.
+- Conocimientos sobre Finanzas, Contabilidad, Planeamiento Financiero, Administración, Manejo del MIS.
+- Manejo de MS Office, manejo de base de datos (Acces) e INEA (BOP) a nivel Avanzado. Dominio del idioma inglés (Intermedio).","('F', 'P')"
+"Ejecutivo Comercial - Junior / Lurin Diseñar y establecer estrategias de ventas para clientes extranjeros.
+Introducir y desarrollar nuevos mercados en otros continentes.
+Alcanzar cuotas de mercado asignadas con clientes de fuera.
+Obtener la cobertura y participación del mercado.
+Llevar indicadores de gestión que generen valor agregado a su gestión.
+Involucrarse en el proceso productivo que le permitirá participar en diversos proyectos de crecimiento del negocio. 
+Manejar temas de mercado y del sector, análisis de la competencia y perspectivas de crecimiento para el rubro, mercado, etc.
+Elaborar informes y presentación a la Gerencia General. En la industria de alimentos o agro-industria y deseable en plantas industriales con interés y perfil para el área comercial.
+Deseable en análisis del mercado, determinación de nichos, análisis de la competencia, negociaciones, introducción de nuevos productos, ventas y trato directo con clientes.
+Conocimientos:
+Indispensable inglés avanzado.","('F', 'P')"
+"Ejecutivo De Compras Junior Misión del Puesto:
+Ejecutar las compras de las líneas asignadas a su categoría otorgando a los usuarios bienes y servicios que contribuyan al desarrollo eficiente del negocio bajo las mejores condiciones comerciales.       
+Funciones:
+•	Gestionar las compras de las líneas asignadas a su categoría.
+•	Interactuar constantemente con las distintas áreas de la empresa para atender sus requerimientos.
+•	Evaluar permanentemente la calidad de servicio de los proveedores tomando las medidas correctivas correspondientes. Proponer nuevos proveedores.
+•	Atender y solucionar problemas en el abastecimiento regular.
+•	Presentar el plan de compras anual de las líneas asignadas en su categoría.
+•	Participar en las mejoras de procesos y procedimientos del área.
+•	Cumplir con los indicadores propuestos por el área.
+•	Completar reportes designados por la jefatura del área.
+•	Realizar otras funciones afines o complementarias asignadas por su jefe inmediato superior. •	Bachiller en Economía, Administración o Ingeniería Industrial.
+•	Poseer 1 año de experiencia como asistente de compras, comprador o afines (Indispensable).
+•	MS Office nivel intermedio (Indispensable y validado).
+•	Dominio de Inglés básico (Indispensable y validado).
+•	Conocimiento de SAP – Módulo MM (Indispensable).","('F', 'P')"
+"Jefe de Riesgos Operativos Apoyar en la interpretación de las políticas definidas para la Gestión de Riesgo Operativo.
+Monitorear el cumplimiento de las políticas de Gestión de Riesgo Operativo.
+Asesorar a cada dueño de proceso con respecto a las herramientas de apoyo (Metodología) para identificar, medir y controlar sus riesgos.
+Ejecutar evaluaciones de riesgos a los procesos y proyectos de la compañía, de acuerdo con un plan de trabajo bien estructurado. Asimismo, realizar evaluaciones de riesgos ante cambios importantes en el ambiente de negocios, proponiendo acciones que mitiguen convenientemente los riesgos identificados.
+Analizar los riesgos para determinar si son o no riesgos aceptables por la Compañía de acuerdo con la Matriz de Riesgos (impacto y probabilidad).
+Monitorear los riesgos de la Compañía y comunicar el estado de los mismos al COO con el fin de coordinar con el dueño del proceso las acciones a seguir.
+Proponer acciones de mitigación de los riesgos identificados.
+Realizar seguimiento de acciones adoptadas para mitigar los riesgos identificados.
+Documentar los eventos de pérdida ocurridos, ingresando la información a una base de datos, generando estadísticas y planes de acción que permitan prevenir a futuro la doble ocurrencia de los eventos de pérdida.
+Participar en la generación del plan de capacitación al personal interno acerca de la administración de riesgos de información y operacionales, monitoreando su correcta y oportuna difusión dentro de la compañía.
+Administrar los KRI’s (Key Risks Indicators), que se mantengan válidos en el tiempo, que los niveles de tolerancia sean los adecuados, que el indicador sea correcta y oportunamente medido y que según estos resultados se ejecuten las medidas correctivas necesarias.
+Preparar las presentaciones trimestrales en materia de riesgos al comité de riesgos operativos.
+Asesorar a las áreas internas con respecto a la evidencia requerida para cerrar las observaciones producto de auditorías internas, externas y regulador local, cumpliendo los tiempos establecidos.
+Elaborar reportes e informes del Área de Riesgos Operativos (Informe Trimestral de Riesgos, Informe Anual de Riesgos, entre otros) y presentárselos al COO para su revisión y aprobación.
+Velar por el adecuado cumplimiento de la normativa con respecto a la Gestión de Riesgo Operacional que le sea aplicable a la empresa, tanto interna como externamente. Especialización / Maestría en finanzas o risk management (muy deseable)
+Experiencia de  5 a 7 años en posiciones similares de Jefatura de Riesgos Operativos 
+Experiencia en el sector bancario (indispensable). 
+Inglés Avanzado (indispensable)","('F', 'P')"
+"Practicante de Información Bursátil Brindar apoyo efectivo en la elaboración y revisión de estudios económicos, apoyar en el análisis de mercados internacionales, apoyar en la presentación de informes a la jefatura y al órgano regulador. Apoyar en la elaboración de modelos de riesgos, apoyar en el monitorio de los modelos de riesgos. Con conocimiento del mercado de valores.
+Conocimientos en finanzas 
+Estadística.","('F', 'P')"
+"Practicante Preprofesional Financial Institutions •	Apoyar en la realización y actualización de base de datos del área indicada.
+•	Realización de informes de inteligencia de mercados.
+•	Brindar soporte al equipo en los distintos requerimientos.
+•	Otras funciones que le asigne su jefe inmediato.
+•	Participar activamente en los proyectos del área. •	Estudiante de los últimos ciclos de la carrera de Contabilidad, Economía y Administración de Empresas.
+•	Conocimiento y manejo de Excel y Power Point a Nivel Avanzado.
+•	Deseable (no indispensable) 3 meses de experiencia en áreas, administración, finanzas y contabilidad.
+•	Conocimiento de FINTECH a nivel de banca.
+•	Proactivo, comunicativo y con predisposición para aprender.
+•	Indispensable idioma de inglés a nivel avanzando de preferencia.","('F', 'P')"
+"Practicante Profesional Área de Incubación -· Realizar el seguimiento de actividades coordinadas en las asesorías para los emprendedores.
+.  Revisión de informes técnicos de los proyectos incubados. 
+·  Apoyo en la sistematización de los procesos de incubación de empresas.
+·  Organización e implementación de formatos que faciliten los procesos de captación de emprendimientos.
+·  Apoyo en eventos de incubación de empresas y del CIDE.
+ 
+-Objetivos:
+ 
+· Lograr cubrir las necesidades de los emprendedores a tiempo.
+· Lograr la sistematización de los procesos de incubación de empresas.
+· Lograr optimizar los resultados a través de herramientas para cada uno de los procesos.
+·  Lograr vincular a los emprendedores a la Comunidad de Emprendedores del Sistema de Incubación. Características Personales:
+
+·         Vocación de servicio.
+·         Dinámico.
+·         Analítico.
+·         Proactividad.
+·         Compromiso.
+ 
+Competencias: (Aptitudes y habilidades):
+ 
+·         Capacidad de trabajo en equipo, actitud de servicio y emprendimiento.
+Conocimientos técnicos:
+·         Computación: Microsoft Office (Nivel intermedio - avanzado).
+·         Conocimiento y administración de información en internet (búsqueda y gestión de la información).
+·         Manejo de herramientas online como el google drive, etc.(deseable).
+ 
+Conocimientos en:
+ 
+·         Modelo de negocios, Plan de negocios, Start up, Sistematización de procesos, Proyectos de innovación","('F', 'P')"
+"Profesional IV De La Oficina De Control Interno - Participar en la ejecución de los servicios de control posterior y simultáneo, y servicios relacionados, programados en el Plan Anual de Control del Órgano de Control Institucional, en calidad de integrante o Jefe de equipo.
+- Planificar, ejecutar, controlar y formular los informes de control, derivados de los servicios de control posterior y simultáneo, y servicios relacionados, de acuerdo a la normativa de control y plazos establecidos en el Plan Anual de Control del Órgano de Control Institucional.
+- Revisar y refrendar los documentos - papeles de trabajo, evidencias, informes preliminares e informes finales propios del cargo y/o función ejecutada, asegurando que la actividad cuente con la información necesaria que sustente el trabajo y conclusiones arribadas.
+- Ejecutar y/o supervisar la ejecución de los procedimientos de auditoría descritos en el programa, verificando las conclusiones arribadas y cautelando que las evidencias sean suficientes y apropiadas, según lo establecido en las normas y procedimientos de control gubernamental.
+- Brindar asesoramiento y asistencia técnica a los miembros de las comisiones de servicios de control posterior y simultáneo, en materia de contrataciones del estado.
+- Otras funciones establecidas en la normativa de control gubernamental, así como las encomendadas por el Jefe del Órgano de Control Institucional. - Experiencia profesional mínima de siete (7) años.
+- Experiencia profesional mínima de cinco (5) años en el sector público, en labores de auditoría o control gubernamental.
+- Experiencia acreditada como jefe o miembro de Comisiones de Auditoria.
+- Deseable, contar con experiencia en servicios de control gubernamental a procesos y/o procedimientos de contrataciones publicas.
+- Título de Maestría en Gestión Pública, Auditoría, Control Gubernamental o materias relacionadas a su especialidad.
+- Especialización o Diplomado en Contrataciones del Estado.
+
+Capacitación en:
+- Gestión pública.
+- Control gubernamental
+- Determinación y/o señalamiento de responsabilidades de los servidores públicos o Procedimiento Administrativo Sancionador.
+- Deseable, contar con capacitación en Auditoría de Cumplimiento.","('F', 'P')"

@@ -1,25 +1,38 @@
-import sys
-sys.path.insert(0, "../../")
-
-
-from term import Term
-from term_controller import TermController
-from configuration import Configuration
+from .term import Term
+from .configuration import Configuration
 from observatorio_laboral.offer.offer_controller import OfferController
-from observatorio_laboral.offer.date_range import DateRange
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+import pickle
+
+TEXT_FIELDS = ["Job Title",
+               "Description",
+               "Qualification",
+               ]
+
+PICKLE_DIR = "./Pickle/"
 
 
 class Dictionary(object):
+    """Data Structure used to represent a document by a collection of words.
 
-    def __init__(self, dict_name):
-        Configuration.ConnectToDatabase("l4", "l4_configuration")
-        Term.ConnectToDatabase("l4", "l4_terms")
-        self.dict_name = dict_name
-        self.load()
-        self.offer_controller = OfferController()
-        self.term_controller = TermController(self.configurations,
-                                              self.offer_controller)
+    Implements:
+        transform
 
+    """
+
+    def __init__(self, name):
+        self.name = name
+        self.oc = OfferController(text_fields=TEXT_FIELDS)
+        pass
+        # Configuration.ConnectToDatabase("l4", "l4_configuration")
+        # Term.ConnectToDatabase("l4", "l4_terms")
+        # self.dict_name = dict_name
+        # self.load()
+        # self.offer_controller = OfferController()
+        # self.term_controller = TermController(self.configurations,
+        #                                       self.offer_controller)
 
     def load(self):
         query_params = (self.dict_name,)
@@ -65,21 +78,15 @@ class Dictionary(object):
 
         print(len(terms))
 
-# Configuracion de diccionario de economia
+    def fit(self, offers):
+        offer_texts = [self.oc.get_text(offer) for offer in offers]
 
-D_ECO = "Diccionario_Economía"
-#d = Dictionary(D_ECO)
-#d.add_configuration(Configuration(D_ECO,
-#                                  "text_fields",
-#                                  "['Description', 'Job Title', 'Qualifications', 'Software']", 
-#                                  "campos a utilizar para obtener texto de una oferta"))
-#d.save()
-#d.add_configuration(Configuration(D_ECO, "career", "'ECONOMÍA'",
-#                                  "carrera a utilizar para este diccionario"))
-#d.add_configuration(Configuration(D_ECO, "date_range", "DateRange(1, 2013, 12, 2017)",
-#                                  "Rango de fecha a utilizar. Evaluar DateRange(value)"))
-#
-#d.save()
+        tfidf_vect = TfidfVectorizer()
+        tfidf_vect.fit(offer_texts)
+        pickle.dump(tfidf_vect, open(PICKLE_DIR + self.name + ".p", "wb"))
 
-d = Dictionary(D_ECO)
-d.update_terms()
+    def transform(self, offers):
+        offer_texts = [self.oc.get_text(offer) for offer in offers]
+        tfidf_vect = pickle.load(open(PICKLE_DIR + self.name + ".p", "rb"))
+        tfidf = tfidf_vect.transform(offer_texts)
+        return tfidf

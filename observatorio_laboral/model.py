@@ -3,6 +3,7 @@ from cassandra.cluster import NoHostAvailable
 from cassandra import InvalidRequest
 from cassandra.query import BoundStatement
 from abc import ABC
+import logging
 
 
 class CassandraModel(ABC):
@@ -29,7 +30,12 @@ class CassandraModel(ABC):
         cls.prepared_statements = {}
 
         if cls.keyspace not in cls.sessions:
-            cls.sessions[cls.keyspace] = cls.cluster.connect(cls.keyspace)
+            try:
+                cls.sessions[cls.keyspace] = cls.cluster.connect(cls.keyspace)
+            except NoHostAvailable:
+                logging.info("Ejecute el comando 'sudo cassandra -R' " + \
+                             "para iniciar el servicio de Casssandra")
+                raise NoHostAvailable
 
         return cls.sessions[keyspace]
 

@@ -5,7 +5,6 @@ class Offer(CassandraModel):
 
     table = ""
 
-
     def __init__(self,
                  source, year, month, id,
                  features={}, careers=set()):
@@ -21,21 +20,20 @@ class Offer(CassandraModel):
         else:
             self.careers = careers
 
-
     @classmethod
     def Setup(cls):
         cls.ConnectToDatabase("l4", "l4_offers", setup=True)
         table_creation_cmd = \
-        """
-        CREATE TABLE IF NOT EXISTS {0} (
-        source text,
-        year int,
-        month int,
-        id text,
-        features map<text, text>,
-        careers set<text>,
-        PRIMARY KEY ((source, year, month), id));
-        """.format(cls.table)
+            """
+            CREATE TABLE IF NOT EXISTS {0} (
+            source text,
+            year int,
+            month int,
+            id text,
+            features map<text, text>,
+            careers set<text>,
+            PRIMARY KEY ((source, year, month), id));
+            """.format(cls.table)
 
         cls.CreateTable(table_creation_cmd)
 
@@ -47,25 +45,25 @@ class Offer(CassandraModel):
 
         statements = {}
         statements['insert'] = \
-                """
-                INSERT INTO {0}
-                (source, year, month, id, features, careers)
-                VALUES
-                (?, ?, ?, ?, ?, ?);
-                """.format(cls.table)
+            """
+            INSERT INTO {0}
+            (source, year, month, id, features, careers)
+            VALUES
+            (?, ?, ?, ?, ?, ?);
+            """.format(cls.table)
 
         statements['select'] = \
-                """
-                SELECT * FROM {0}
-                WHERE source = ?
-                AND year = ?
-                AND month = ?;
-                """.format(cls.table)
+            """
+            SELECT * FROM {0}
+            WHERE source = ?
+            AND year = ?
+            AND month = ?;
+            """.format(cls.table)
 
         statements['select_all'] = \
-                """
-                SELECT * FROM {0};
-                """.format(cls.table)
+            """
+            SELECT * FROM {0};
+            """.format(cls.table)
 
         cls.PrepareStatements(statements)
 
@@ -76,7 +74,6 @@ class Offer(CassandraModel):
     def ToRow(self):
         return (self.source, self.year, self.month, self.id, self.features, self.careers)
 
-
 # Method to create tables
-#Offer.Setup()
-#Offer.ConnectToDatabase('l4', 'l4_offers')
+# Offer.Setup()
+# Offer.ConnectToDatabase('l4', 'l4_offers')

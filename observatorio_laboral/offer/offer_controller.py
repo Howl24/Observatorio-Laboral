@@ -29,7 +29,18 @@ class OfferController(object):
         new_offer_list = []
         for offer in self.offers:
             if field in offer.features:
-                new_offer_list.append(offer)
+                if not ignore:
+                    new_offer_list.append(offer)
+                else:
+                    ig = False
+                    for label in offer.features[field].split(DELIMITER):
+                        if label in ignore:
+                            ig = True
+
+                    if not ig:
+                        new_offer_list.append(offer)
+
+
 
         self.offers = new_offer_list
 
@@ -40,6 +51,15 @@ class OfferController(object):
                 new_offer_list.append(offer)
 
         self.offers = new_offer_list
+
+    def find(self, source, year, month, id):
+        for offer in self.offers:
+            if offer.source == source and \
+               offer.year == year and \
+               offer.month == month and \
+               offer.id == id:
+
+                return offer
 
     def get_text(self, offer=None):
         """ Get text from offer features. """
@@ -56,11 +76,13 @@ class OfferController(object):
 
         return " ".join(fields)
 
-    def get_field_labels(self, field, offer=None):
+    def get_field_labels(self, field, offer=None, ignore=[]):
         if not offer:
-            return [self.get_field_labels(field, offer) for offer in self.offers]
+            return [self.get_field_labels(field, offer, ignore) for offer in self.offers]
 
         if field in offer.features:
-            return offer.features[field].split(DELIMITER)
+            labels = [label for label in offer.features[field].split(DELIMITER) if label not in ignore]
+            return labels
+
         else:
             return []

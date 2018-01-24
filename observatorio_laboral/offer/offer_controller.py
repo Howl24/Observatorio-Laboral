@@ -6,9 +6,12 @@ class OfferController(object):
     keyspace = "l4"
     table = "l4_offers"
 
-    def __init__(self, text_fields, offers = []):
+    def __init__(self, text_fields, offers = [], keyspace="l4", table="l4_offers"):
         self.text_fields = text_fields
         self.offers = offers
+        self.keyspace = keyspace
+        self.table = table
+
         Offer.ConnectToDatabase(self.keyspace, self.table)
 
     def load_offers(self, source, date_range, career=None):

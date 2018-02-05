@@ -25,7 +25,7 @@ class Offer(CassandraModel):
 
     def __init__(self, keyspace, table,
                  source, year, month, # Partition key
-                 careers, id,         # Clusters
+                 career, id,         # Clusters
                  features={}):
 
         super().__init__(keyspace, table)

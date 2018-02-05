@@ -2,55 +2,68 @@ from observatorio_laboral.model import CassandraModel
 
 
 class Offer(CassandraModel):
+    """
+    Class that contains the structure of an job offer.
 
-    table = ""
+    Class variables:
+        - model_id -> Offer model identifier ("offer")
+                      Used in  cassandra model conection
 
-    def __init__(self,
-                 source, year, month, id,
-                 features={}, careers=set()):
+    Attributes:
+        - source -> Job Source (symplicity, aptitus, bumeran, etc.)
+        - year   -> Published year
+        - month  -> Published month
+        - career -> Career related to the offer.
+                    "Unassigned" if it's already not assigned to one.
+        - id     -> hash obtained by some offer features 
+                    (title, description, etc.)
+        - features -> Dictionary containing the offer features
+    """
 
+    model_id = "offer"
+
+
+    def __init__(self, keyspace, table,
+                 source, year, month, # Partition key
+                 careers, id,         # Clusters
+                 features={}):
+
+        super().__init__(keyspace, table)
         self.source = source
         self.year = year
         self.month = month
+        self.career = career
         self.id = id
         self.features = features
 
-        if careers is None:
-            self.careers = set()
-        else:
-            self.careers = careers
-
+    # ----------------------------------------------------------------------
+    # Cassandra methods
     @classmethod
-    def Setup(cls):
-        cls.ConnectToDatabase("l4", "l4_offers", setup=True)
+    def DefineCreateTableCommand(cls, keyspace, table):
         table_creation_cmd = \
             """
             CREATE TABLE IF NOT EXISTS {0} (
             source text,
             year int,
             month int,
+            career text,
             id text,
             features map<text, text>,
-            careers set<text>,
-            PRIMARY KEY ((source, year, month), id));
-            """.format(cls.table)
+            PRIMARY KEY ((source, year, month), career, id));
+            """.format(table)
 
-        cls.CreateTable(table_creation_cmd)
+        return table_creation_cmd
 
     @classmethod
-    def ConnectToDatabase(cls, keyspace, table, setup=False):
-        super().ConnectToDatabase(keyspace, table)
-        if setup:
-            return
-
+    def DefineStatements(cls, table):
         statements = {}
         statements['insert'] = \
             """
             INSERT INTO {0}
-            (source, year, month, id, features, careers)
+            (source, year, month, id, career, features)
             VALUES
             (?, ?, ?, ?, ?, ?);
-            """.format(cls.table)
+            """.format(table)
 
         statements['select'] = \
             """
@@ -58,22 +71,51 @@ class Offer(CassandraModel):
             WHERE source = ?
             AND year = ?
             AND month = ?;
-            """.format(cls.table)
+            """.format(table)
+
+        statements['select_by_career'] = \
+            """
+            SELECT * FROM {0}
+            WHERE source = ?
+            AND year = ?
+            AND month = ?
+            AND career = ?;
+            """.format(table)
+
+        statements['select_by_id'] = \
+            """
+            SELECT * FROM {0}
+            WHERE source = ?
+            AND year = ?
+            AND month = ?
+            AND career = ?
+            AND id = ?;
+            """.format(table)
 
         statements['select_all'] = \
             """
             SELECT * FROM {0};
-            """.format(cls.table)
+            """.format(table)
 
-        cls.PrepareStatements(statements)
+        return statements
 
     @classmethod
-    def ByRow(cls, row):
-        return cls(row.source, row.year, row.month, row.id, row.features, row.careers)
-
+    def ByRow(cls, keyspace, table, row):
+        """Match __init__ method."""
+        return cls(keyspace = keyspace,
+                   table = table,
+                   source = row.source,
+                   year = row.year,
+                   month = row.month,
+                   career = row.career,
+                   id = row.id,
+                   features = row.features)
+                   
     def ToRow(self):
-        return (self.source, self.year, self.month, self.id, self.features, self.careers)
-
-# Method to create tables
-# Offer.Setup()
-# Offer.ConnectToDatabase('l4', 'l4_offers')
+        """Match 'insert' statement."""
+        return (self.source,
+                self.year,
+                self.month,
+                self.career,
+                self.id,
+                self.features)

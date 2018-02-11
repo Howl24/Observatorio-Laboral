@@ -1,4 +1,6 @@
 from observatorio_laboral.model import CassandraModel
+import csv
+import logging
 
 
 class Offer(CassandraModel):
@@ -15,17 +17,16 @@ class Offer(CassandraModel):
         - month  -> Published month
         - career -> Career related to the offer.
                     "Unassigned" if it's already not assigned to one.
-        - id     -> hash obtained by some offer features 
+        - id     -> hash obtained by some offer features
                     (title, description, etc.)
         - features -> Dictionary containing the offer features
     """
 
     model_id = "offer"
 
-
     def __init__(self, keyspace, table,
-                 source, year, month, # Partition key
-                 career, id,         # Clusters
+                 source, year, month,   # Partition key
+                 career, id,            # Clusters
                  features={}):
 
         super().__init__(keyspace, table)
@@ -60,7 +61,7 @@ class Offer(CassandraModel):
         statements['insert'] = \
             """
             INSERT INTO {0}
-            (source, year, month, id, career, features)
+            (source, year, month, career, id, features)
             VALUES
             (?, ?, ?, ?, ?, ?);
             """.format(table)
@@ -102,15 +103,15 @@ class Offer(CassandraModel):
     @classmethod
     def ByRow(cls, keyspace, table, row):
         """Match __init__ method."""
-        return cls(keyspace = keyspace,
-                   table = table,
-                   source = row.source,
-                   year = row.year,
-                   month = row.month,
-                   career = row.career,
-                   id = row.id,
-                   features = row.features)
-                   
+        return cls(keyspace=keyspace,
+                   table=table,
+                   source=row.source,
+                   year=row.year,
+                   month=row.month,
+                   career=row.career,
+                   id=row.id,
+                   features=row.features)
+
     def ToRow(self):
         """Match 'insert' statement."""
         return (self.source,
@@ -119,3 +120,30 @@ class Offer(CassandraModel):
                 self.career,
                 self.id,
                 self.features)
+
+    # ----------------------------------------------------------------------
+    # Common methods
+    @classmethod
+    def Import(cls, keyspace, table, filename):
+        """Insert offers from a csv file"""
+        with open(filename) as csvfile:
+            reader = csv.DictReader(csvfile)
+            for idx, row in enumerate(reader):
+                try:
+                    source = row['source']
+                    year = int(row['year'])
+                    month = int(row['month'])
+                    career = row['career']
+                    id = row['id']
+                    features = eval(row['features'])
+                    offer = cls(keyspace, table,
+                                source, year, month,
+                                career, id,
+                                features)
+                    offer.Insert()
+                except KeyError:
+                    logging.exception("Cabecera de archivo no concuerda con " +
+                                      " la estructura de la convocatoria")
+                except TypeError:
+                    logging.exception("Un valor en la fila " + str(idx+1) +
+                                      " falló al ser evaluado.")

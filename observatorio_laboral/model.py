@@ -108,7 +108,8 @@ class CassandraModel(ABC):
         key = cls._build_key(keyspace, table, cmd_key)
 
         try:
-            result = cls.Runstatement(cls.prepared_statements[key])
+            result = cls.RunStatement(keyspace,
+                                      cls.prepared_statements[key], params)
         except KeyError:
             logging.info("Prepared statement " + key + " not found.")
             return None

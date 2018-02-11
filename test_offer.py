@@ -43,21 +43,8 @@ def prepare_statements():
                             table=train_offers_table)
     
 def load_offers():
-    cnt = 0
-    with open("Backup/apt_new_offers.dat") as file:
-        for row in file:
-            data = row.split(",",4)
-            id = data[0]
-            year = data[1]
-            month = data[2]
-            career = "UNASSIGNED"
-            features = data[4]
-            source = "aptitus"
-
-            #offer = Offer(keyspace, all_offers_table,
-            #              source, year, month,
-            #              career, id,
-            #              features)
+    Offer.Import(keyspace, all_offers_table,
+                 "Backup/Data/data_symplicity_new_offers")
 
 if __name__ == "__main__":
     #setup()

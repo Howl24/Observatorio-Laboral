@@ -2,6 +2,8 @@ from observatorio_laboral.model import CassandraModel
 import csv
 import logging
 
+DELIMITER = ","
+
 
 class Offer(CassandraModel):
     """
@@ -113,7 +115,7 @@ class Offer(CassandraModel):
                    features=row.features)
 
     def ToRow(self):
-        """Match 'insert' statement."""
+        """Match 'insert' statement. Check the order"""
         return (self.source,
                 self.year,
                 self.month,
@@ -123,6 +125,28 @@ class Offer(CassandraModel):
 
     # ----------------------------------------------------------------------
     # Common methods
+
+    def get_text(self, text_features):
+        """ Get text from offer features. """
+        features = []
+        for feature in self.text_features:
+            try:
+                features.append(self.features[feature])
+            except KeyError:
+                continue
+
+        return " ".join(features)
+
+    def get_field_labels(self, field, labels=None):
+        offer_labels = []
+        if field in self.features:
+            offer_labels = self.features[field].split(DELIMITER)
+            if labels:
+                offer_labels = [label for label in offer_labels
+                                if label in labels]
+
+        return labels
+
     @classmethod
     def Import(cls, keyspace, table, filename):
         """Insert offers from a csv file"""

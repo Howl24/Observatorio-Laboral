@@ -1,6 +1,7 @@
 from observatorio_laboral.model import CassandraModel
 import csv
 import logging
+from collections import namedtuple
 
 DELIMITER = ","
 
@@ -152,22 +153,33 @@ class Offer(CassandraModel):
         """Insert offers from a csv file"""
         with open(filename) as csvfile:
             reader = csv.DictReader(csvfile)
-            for idx, row in enumerate(reader):
-                try:
-                    source = row['source']
-                    year = int(row['year'])
-                    month = int(row['month'])
-                    career = row['career']
-                    id = row['id']
-                    features = eval(row['features'])
-                    offer = cls(keyspace, table,
-                                source, year, month,
-                                career, id,
-                                features)
+            row_fields = ['source',
+                          'year',
+                          'month',
+                          'career',
+                          'id',
+                          'features',
+                          ]
+
+            csv_header = reader.fieldnames
+
+            if csv_header != row_fields:
+                logging.error("Incorrect file header")
+            else:
+                logging.info("Correct file header")
+                Row = namedtuple('Row', row_fields)
+                for row in reader:
+                    row = Row(row['source'],
+                              int(row['year']),
+                              int(row['month']),
+                              row['career'],
+                              row['id'],
+                              eval(row['features']),
+                              )
+
+                    offer = cls.ByRow(keyspace, table, row)
                     offer.Insert()
-                except KeyError:
-                    logging.exception("Cabecera de archivo no concuerda con " +
-                                      " la estructura de la convocatoria")
-                except TypeError:
-                    logging.exception("Un valor en la fila " + str(idx+1) +
-                                      " falló al ser evaluado.")
+
+    @classmethod
+    def Export(cls, keyspace, table, filename, offer_list):
+        """ Export offers to a csv file """

@@ -21,7 +21,7 @@ class OfferController(object):
         """
         self.offers = []
         for date in date_range:
-            if not career:
+            if career == None:
                 params = (source, date.get_year(), date.get_month())
                 query_offers = Offer.Query(self.keyspace,
                                            self.table,

@@ -26,6 +26,7 @@ class Offer(CassandraModel):
     """
 
     model_id = "offer"
+    fields = ['source', 'year', 'month', 'career', 'id', 'features']
 
     def __init__(self, keyspace, table,
                  source, year, month,   # Partition key
@@ -102,6 +103,17 @@ class Offer(CassandraModel):
             """.format(table)
 
         return statements
+
+    @classmethod
+    def FromDictToNamedTuple(cls, dictionary):
+        Row = namedtuple('Row', cls.fields)
+        return Row(source=dictionary['source'],
+                   year=int(dictionary['year']),
+                   month=int(dictionary['month']),
+                   career=dictionary['career'],
+                   id=dictionary['id'],
+                   features=eval(dictionary['features']),
+                   )
 
     @classmethod
     def ByRow(cls, keyspace, table, row):

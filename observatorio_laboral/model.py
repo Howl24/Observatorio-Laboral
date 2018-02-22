@@ -1,8 +1,11 @@
 from cassandra.cluster import Cluster
+from cassandra.util import OrderedMapSerializedKey
 from cassandra.cluster import NoHostAvailable
 from abc import ABC
 from abc import abstractmethod
 import logging
+import csv
+from collections import namedtuple
 
 
 class CassandraModel(ABC):
@@ -36,6 +39,7 @@ class CassandraModel(ABC):
     cluster = Cluster()
     sessions = {}
     model_id = ""
+    fields = []
     prepared_statements = {}
 
     @abstractmethod
@@ -173,3 +177,46 @@ class CassandraModel(ABC):
     @classmethod
     def _build_key(cls, keyspace, table, cmd_key):
         return "__".join((cls.model_id, keyspace, table, cmd_key))
+
+    # ----------------------------------------------------------------------
+    # Backup Utils
+
+    @classmethod
+    def Backup(cls, keyspace, table, filename): 
+        """ Creates a backup file with all the data in the table"""
+        #offers = cls.Query(keyspace, table, "select_all", ())
+
+        # Prepared Statement instead of Query method to work with lazy memory usage.
+        rows = cls.RunPreparedStatement(keyspace, table, "select_all", ())
+
+        with open(filename, "w") as csvfile:
+            fieldnames = cls.fields
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames,
+                    delimiter="|", quotechar='^', quoting=csv.QUOTE_ALL)
+            writer.writeheader()
+            for row in rows:
+                writer.writerow(row._asdict())
+
+    @classmethod
+    def Restore(cls, keyspace, table, filename):
+        """ Restore a previous backup file """
+
+        cmd = "TRUNCATE {0}".format(table)
+        cls.RunStatement(keyspace, cmd)
+
+        with open(filename) as csvfile:
+            reader = csv.DictReader(csvfile, delimiter="|", quotechar='^', quoting=csv.QUOTE_ALL)
+
+            if reader.fieldnames != cls.fields:
+                logging.error("Incorrect file header")
+            else:
+                logging.info("Correct file header")
+                for row in reader:
+                    obj = cls.FromDictToNamedTuple(row)
+                    cls.RunPreparedStatement(keyspace, table, "insert", obj)
+
+    @classmethod
+    @abstractmethod
+    def FromDictToNamedTuple(cls, dictionary):
+        logging.error("From Dictionary To Named Tuple not implemented.")
+        raise NotImplementedError

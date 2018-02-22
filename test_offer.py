@@ -67,26 +67,31 @@ def test_import():
 #
 #    oc.from_csv("/home/howl24/Data/test_data_aptitus_new_offers")
 #
+
+def test_backup():
+    keyspace = 'l4_test'
+    table = 'all_offers'
+    Offer.ConnectToDatabase(keyspace, table)
+    Offer.Backup(keyspace, table, "backup_file.csv")
+
+def test_restore():
+    keyspace = "l4_restore"
+    table = "all_offers"
+
+    Offer.CreateKeyspace(keyspace)
+    Offer.ConnectToDatabase(keyspace,
+                            table,
+                            setup=True)
+    Offer.ConnectToDatabase(keyspace,table)
+    Offer.Restore(keyspace, table, "backup_file.csv")
                     
 if __name__ == "__main__":
-    test_import()
+    #test_backup()
+    test_restore()
+
+
+    #test_import()
     #setup()
     #prepare_statements()
 
     #load_offers()
-
-#date_range = DateRange(1, 2013, 5, 2017)
-#source = "symplicity"
-
-#try:
-#    offer_controller = OfferController()
-#    offers = offer_controller.get_offers(source, date_range)
-##    print("Ofertas obtenidas: ", len(offers))
-#except NoHostAvailable:
-#    logging.info("No se pudo realizar la prueba")
-#
-
-
-# Get text
-
-#print(offer_controller.get_text(offers[0], ["Job Title", "Description"]))

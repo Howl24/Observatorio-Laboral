@@ -1,7 +1,4 @@
 from observatorio_laboral.model import CassandraModel
-import csv
-import logging
-from collections import namedtuple
 
 DELIMITER = ","
 
@@ -105,9 +102,10 @@ class Offer(CassandraModel):
         return statements
 
     @classmethod
-    def FromDictToNamedTuple(cls, dictionary):
-        Row = namedtuple('Row', cls.fields)
-        return Row(source=dictionary['source'],
+    def FromTextNamedTuple(cls, keyspace, table, dictionary):
+        return cls(keyspace=keyspace,
+                   table=table,
+                   source=dictionary['source'],
                    year=int(dictionary['year']),
                    month=int(dictionary['month']),
                    career=dictionary['career'],
@@ -116,7 +114,7 @@ class Offer(CassandraModel):
                    )
 
     @classmethod
-    def ByRow(cls, keyspace, table, row):
+    def FromNamedTuple(cls, keyspace, table, row):
         """Match __init__ method."""
         return cls(keyspace=keyspace,
                    table=table,
@@ -127,7 +125,7 @@ class Offer(CassandraModel):
                    id=row.id,
                    features=row.features)
 
-    def ToRow(self):
+    def ToTuple(self):
         """Match 'insert' statement. Check the order"""
         return (self.source,
                 self.year,
@@ -159,39 +157,3 @@ class Offer(CassandraModel):
                                 if label in labels]
 
         return labels
-
-    @classmethod
-    def Import(cls, keyspace, table, filename):
-        """Insert offers from a csv file"""
-        with open(filename) as csvfile:
-            reader = csv.DictReader(csvfile)
-            row_fields = ['source',
-                          'year',
-                          'month',
-                          'career',
-                          'id',
-                          'features',
-                          ]
-
-            csv_header = reader.fieldnames
-
-            if csv_header != row_fields:
-                logging.error("Incorrect file header")
-            else:
-                logging.info("Correct file header")
-                Row = namedtuple('Row', row_fields)
-                for row in reader:
-                    row = Row(row['source'],
-                              int(row['year']),
-                              int(row['month']),
-                              row['career'],
-                              row['id'],
-                              eval(row['features']),
-                              )
-
-                    offer = cls.ByRow(keyspace, table, row)
-                    offer.Insert()
-
-    @classmethod
-    def Export(cls, keyspace, table, filename, offer_list):
-        """ Export offers to a csv file """

@@ -1,11 +1,9 @@
 from cassandra.cluster import Cluster
-from cassandra.util import OrderedMapSerializedKey
 from cassandra.cluster import NoHostAvailable
 from abc import ABC
 from abc import abstractmethod
 import logging
 import csv
-from collections import namedtuple
 
 
 class CassandraModel(ABC):
@@ -101,19 +99,24 @@ class CassandraModel(ABC):
     # CQL execution methods
 
     @classmethod
-    def RunStatement(cls, keyspace, statement, params=None):
+    def RunStatement(cls, keyspace, statement, params=None, async=False):
         """Basic statement execution"""
-        result = cls.sessions[keyspace].execute(statement, params)
+        if async:
+            result = cls.sessions[keyspace].execute_async(statement, params)
+        else:
+            result = cls.sessions[keyspace].execute(statement, params)
         return result
 
     @classmethod
-    def RunPreparedStatement(cls, keyspace, table, cmd_key, params=None):
+    def RunPreparedStatement(cls, keyspace, table, cmd_key, params=None,
+                             async=False):
         """Run a prepared statement by it's command key"""
         key = cls._build_key(keyspace, table, cmd_key)
 
         try:
             result = cls.RunStatement(keyspace,
-                                      cls.prepared_statements[key], params)
+                                      cls.prepared_statements[key], params,
+                                      async=async)
         except KeyError:
             logging.info("Prepared statement " + key + " not found.")
             return None
@@ -126,15 +129,33 @@ class CassandraModel(ABC):
         if not rows:
             return []
         else:
-            return [cls.ByRow(keyspace, table, row) for row in rows]
+            return [cls.FromNamedTuple(keyspace, table, row) for row in rows]
 
     def Insert(self):
-        row = self.ToRow()
+        row = self.ToTuple()
         result = self.__class__.RunPreparedStatement(self.keyspace,
                                                      self.table,
                                                      cmd_key='insert',
                                                      params=row)
         return result
+
+    @classmethod
+    def InsertListAsync(self, obj_list):
+        param_list = []
+        for obj in obj_list:
+            param_list.append(obj)
+
+        future_list = []
+        for param in param_list:
+            future_resp = self.__class__.RunPreparedStatement(self.keyspace,
+                                                              self.table,
+                                                              cmd_key="insert",
+                                                              params=param,
+                                                              async=True)
+            future_list.append(future_resp)
+
+        for future_resp in future_list:
+            future_resp.result()
 
     # ----------------------------------------------------------------------
     # Child class methods to implement
@@ -155,13 +176,19 @@ class CassandraModel(ABC):
 
     @classmethod
     @abstractmethod
-    def ByRow(cls, keyspace, table, row):
-        logging.error("By Row method not implemented.")
+    def FromNamedTuple(cls, keyspace, table, row):
+        logging.error("FromNamedTuple method not implemented.")
+        raise NotImplementedError
+
+    @classmethod
+    @abstractmethod
+    def FromTextNamedTuple(cls, keyspace, table, row):
+        logging.error("FromTextNamedTuple method not implemented.")
         raise NotImplementedError
 
     @abstractmethod
-    def ToRow(self):
-        logging.error("ToRow method not implemented.")
+    def ToTuple(self):
+        logging.error("ToTuple method not implemented.")
         raise NotImplementedError
 
     # ----------------------------------------------------------------------
@@ -182,17 +209,19 @@ class CassandraModel(ABC):
     # Backup Utils
 
     @classmethod
-    def Backup(cls, keyspace, table, filename): 
+    def Backup(cls, keyspace, table, filename):
         """ Creates a backup file with all the data in the table"""
-        #offers = cls.Query(keyspace, table, "select_all", ())
+        # Prepared Statement instead of Query method
+        # to work with lazy memory usage.
+        # offers = cls.Query(keyspace, table, "select_all", ())
 
-        # Prepared Statement instead of Query method to work with lazy memory usage.
         rows = cls.RunPreparedStatement(keyspace, table, "select_all", ())
 
         with open(filename, "w") as csvfile:
             fieldnames = cls.fields
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames,
-                    delimiter="|", quotechar='^', quoting=csv.QUOTE_ALL)
+                                    delimiter="|",
+                                    quotechar='^', quoting=csv.QUOTE_ALL)
             writer.writeheader()
             for row in rows:
                 writer.writerow(row._asdict())
@@ -205,18 +234,18 @@ class CassandraModel(ABC):
         cls.RunStatement(keyspace, cmd)
 
         with open(filename) as csvfile:
-            reader = csv.DictReader(csvfile, delimiter="|", quotechar='^', quoting=csv.QUOTE_ALL)
+            reader = csv.DictReader(csvfile,
+                                    delimiter="|",
+                                    quotechar='^', quoting=csv.QUOTE_ALL)
 
             if reader.fieldnames != cls.fields:
                 logging.error("Incorrect file header")
             else:
                 logging.info("Correct file header")
+                params_list = []
                 for row in reader:
-                    obj = cls.FromDictToNamedTuple(row)
-                    cls.RunPreparedStatement(keyspace, table, "insert", obj)
+                    obj = cls.FromTextNamedTuple(keyspace, table, row)
+                    params = obj.ToTuple()
+                    params_list.append(params)
 
-    @classmethod
-    @abstractmethod
-    def FromDictToNamedTuple(cls, dictionary):
-        logging.error("From Dictionary To Named Tuple not implemented.")
-        raise NotImplementedError
+                cls.InsertListAsync()

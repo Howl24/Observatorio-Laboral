@@ -38,9 +38,9 @@ class Keyword(CassandraModel):
             similars_no_stem list<text>,
             similars_stem list<text>,
             PRIMARY KEY (category, word));
-            """.format(cls.table)
+            """.format(table)
 
-        cls.CreateTable(table_creation_cmd)
+        return table_creation_cmd
 
     @classmethod
     def DefineStatements(cls, table):

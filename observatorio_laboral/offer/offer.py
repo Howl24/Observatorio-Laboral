@@ -140,7 +140,7 @@ class Offer(CassandraModel):
     def get_text(self, text_features):
         """ Get text from offer features. """
         features = []
-        for feature in self.text_features:
+        for feature in text_features:
             try:
                 features.append(self.features[feature])
             except KeyError:

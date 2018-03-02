@@ -23,8 +23,16 @@ class Keyword(CassandraModel):
         super().__init__(keyspace, table)
         self.category = category
         self.word = word
-        self.similars_no_stem = similars_no_stem
-        self.similars_stem = similars_stem
+
+        if similars_no_stem:
+            self.similars_no_stem = similars_no_stem
+        else:
+            self.similars_no_stem = []
+
+        if similars_stem:
+            self.similars_stem = similars_stem
+        else:
+            self.similars_stem = []
 
     # ----------------------------------------------------------------------
     # Cassandra methods

@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "category" : "languages-symplicity",
+      "proc_code" : 2,
+      "fields" : [
+          "Qualifications",
+          "Description",
+          "Job Title"
+      ]
+    },
+    {
+      "category" : "softwares-symplicity",
+      "proc_code" : 2,
+      "fields" : [
+          "Qualifications",
+          "Description",
+          "Job Title"
+      ]
+    },
+    {
+      "category" : "degrees-symplicity",
+      "proc_code" : 3,
+      "fields" : [
+        "Degree Level",
+        "Qualifications"
+      ]
+    },
+    {
+      "category" : "positions-symplicity",
+      "proc_code" : 3,
+      "fields" : [
+        "Position Level",
+        "Job Title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "configurations" : [
+    {
+      "category" : "languages-aptitus",
+      "proc_code" : 3,
+      "fields" : [
+          "Requerimientos",
+          "Nivel",
+          "FuncionesResponsabilidades",
+          "descripción",
+          "otros",
+          "requisitos"
+      ]
+    },
+    {
+      "category" : "degrees-aptitus",
+      "proc_code" : 2,
+      "fields" : [      
+        "Requerimientos",
+        "Nivel", 
+        "FuncionesResponsabilidades", 
+        "NombreAviso",
+        "descripción",
+        "otros",
+        "requisitos"
+      ]
+    },
+    {
+      "category" : "positions-aptitus",
+      "proc_code" : 3,
+      "fields" : [
+        "NombreAviso",
+        "Nivel",
+        "FuncionesResponsabilidades",         
+        "Requerimientos",
+        "descripción",
+        "requisitos",
+        "título"
+      ]
+    }
+  ]
+}
+
+
